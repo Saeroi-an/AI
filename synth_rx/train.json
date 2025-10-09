@@ -1,0 +1,12 @@
+[
+    {
+      "image": "data/synth_rx/rx_0.png",
+      "conversations": [
+        {"from": "human", "value": "환자 이름은?"},
+        {"from": "gpt", "value": "홍길동"},
+        {"from": "human", "value": "약 이름과 용량은?"},
+        {"from": "gpt", "value": "타이레놀 500mg"}
+      ]
+    }
+  ]
+  
