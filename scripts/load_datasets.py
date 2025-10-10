@@ -3,7 +3,9 @@ import shutil
 import os
 
 # cord-v2 데이터셋 다운로드 (샘플만 1~2개 사용)
-dataset = load_dataset("naver-clova-ix/cord-v2", split="train[:10]")  # 처음 2개 샘플만
+dataset = load_dataset("naver-clova-ix/cord-v2", split="train")  # 처음 2개 샘플만
+
+print(f"총 train 샘플 수: {len(dataset)}")
 
 # 저장할 경로
 img_dir = "data/cord_sample/images"
