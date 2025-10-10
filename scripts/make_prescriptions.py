@@ -23,6 +23,7 @@ FIELD_POS = {
     "date":       (450, 110),  # 발행일/처방일
     "medication": (60, 380),  # 약품명
     "dosage":     (420, 400),  # 복용법
+    "code":       (82, 270)  # 질병코드
 }
 
 # -------- 유틸 --------
@@ -81,18 +82,24 @@ def main():
     meds_path   = os.path.join(FIELDS_DIR, "current_medication.json")
     people_path = os.path.join(FIELDS_DIR, "patient_info.json")
     doses_path  = os.path.join(FIELDS_DIR, "dosage_info.json")
+    code_path  = os.path.join(FIELDS_DIR, "diagnosis_code.json")
+
 
     # 데이터 로드
     meds   = load_list(meds_path)
     people = load_list(people_path)
     doses  = load_list(doses_path)
+    code   = load_list(code_path)
 
     # 무작위 선택
     med_selected    = pick_one(meds)
     person_selected = pick_one(people)
     dose_selected   = pick_one(doses)
+    code_real       = pick_one(code)
+    code_selected   = "   ".join(code_real) # 코드 사이 공백추가
 
     name, dob = parse_name_dob(person_selected)
+    
     today = datetime.now().strftime("%Y-%m-%d")
 
     payload = {
@@ -101,6 +108,16 @@ def main():
         "date":       today,
         "medication": med_selected,
         "dosage":     dose_selected,
+        "code":       code_selected,
+    }
+
+    printload = {
+        "name":       name,
+        "dob":        dob,
+        "date":       today,
+        "medication": med_selected,
+        "dosage":     dose_selected,
+        "code":       code_real,
     }
 
     # PDF 열기
@@ -120,7 +137,7 @@ def main():
 
     print(f"✅ Saved: {OUTPUT_PDF}")
     print("== 사용된 데이터 ==")
-    for k, v in payload.items():
+    for k, v in printload.items():
         print(f"- {k}: {v}")
 
 if __name__ == "__main__":
