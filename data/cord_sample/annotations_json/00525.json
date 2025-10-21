@@ -2,10 +2,7 @@
   "gt_parse": {
     "menu": {
       "unitprice": "17,000",
-      "cnt": [
-        "TRIPPLE CHEESE",
-        "1"
-      ],
+      "nm": "TRIPPLE CHEESE",
       "price": "17,000"
     },
     "sub_total": {

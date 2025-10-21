@@ -18,7 +18,8 @@
       },
       {
         "nm": "DANISH FISH & CHIPS",
-        "cnt": "1"
+        "cnt": "1",
+        "price": "0"
       }
     ],
     "sub_total": {

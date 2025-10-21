@@ -1,10 +1,7 @@
 {
   "gt_parse": {
     "menu": {
-      "nm": [
-        "1",
-        "MIE UP BSR C"
-      ],
+      "nm": "MIE UP BSR C",
       "cnt": "1",
       "price": "36,000"
     },

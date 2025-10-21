@@ -1,0 +1,1865 @@
+❤️ sub_key로 skip: 00191.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00191.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00191.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00191.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00191.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00191.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00084.json idx 0: ['sub']
+❤️ sub_key로 skip: 00084.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00096.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00096.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00096.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00096.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00595.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00595.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00595.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00595.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00595.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00595.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00109.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00109.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00109.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00109.json idx 3: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00784.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00784.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00784.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00784.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00509.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00509.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00509.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00052.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00052.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00071.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00071.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00071.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00071.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00628.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00628.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00628.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00004.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00004.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00004.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00004.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00104.json idx 0: ['sub']
+❤️ sub_key로 skip: 00104.json idx 1: ['sub']
+❤️ sub_key로 skip: 00104.json idx 2: ['sub']
+❤️ sub_key로 skip: 00203.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 8: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 9: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 10: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 11: ['unitprice']
+❤️ sub_key로 skip: 00203.json idx 12: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00414.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00414.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00414.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00414.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00471.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00471.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00471.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00471.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00269.json idx 0: ['num']
+❤️ sub_key로 skip: 00269.json idx 1: ['num']
+❤️ sub_key로 skip: 00269.json idx 2: ['num']
+💚 딕셔너리가 아니라 skip된 파일: 00458.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00458.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00458.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00251.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00251.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00251.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00282.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00282.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00282.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00282.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00372.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00372.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00372.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00372.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00273.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00273.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00273.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00273.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00310.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00310.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00310.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00310.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00319.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00319.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00319.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00555.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00555.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00555.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00105.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00105.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00105.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00501.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00501.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00795.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00795.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00795.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00795.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00497.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00497.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00497.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00497.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00730.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00730.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00730.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00730.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00530.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00530.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00530.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00530.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00094.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00094.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00552.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00552.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00552.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00552.json idx 3: ['num', 'unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00318.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00318.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00318.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00772.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00772.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00196.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00196.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00529.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00529.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00529.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00529.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00529.json menu index 4: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00529.json menu index 5: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00128.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00128.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00128.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00128.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00515.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00515.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00661.json idx 0: ['sub']
+❤️ sub_key로 skip: 00661.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00018.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00018.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00018.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00138.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00138.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00138.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00138.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00138.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00138.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00138.json idx 6: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00679.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00679.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00679.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00152.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00152.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00152.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00152.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00152.json menu index 4: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00676.json menu index 0: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00676.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00657.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00657.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00657.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00657.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00494.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00494.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00494.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00488.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00488.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00488.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00488.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00151.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00151.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00151.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00151.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00298.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00298.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00298.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00298.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00440.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00440.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00616.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00616.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00051.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00051.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00554.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00554.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00554.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00777.json idx 0: ['unitprice', 'etc']
+❤️ sub_key로 skip: 00777.json idx 1: ['etc']
+❤️ sub_key로 skip: 00777.json idx 2: ['etc']
+❤️ sub_key로 skip: 00777.json idx 3: ['etc']
+❤️ sub_key로 skip: 00777.json idx 4: ['etc', 'sub']
+❤️ sub_key로 skip: 00777.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00777.json idx 6: ['etc']
+💚 딕셔너리가 아니라 skip된 파일: 00027.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00027.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00027.json menu index 2: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00025.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00025.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00403.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00403.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00403.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00462.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00462.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00102.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00102.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00102.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00261.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00261.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00261.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00261.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00261.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00508.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00508.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00508.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00508.json idx 3: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00022.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00022.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00022.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00022.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00390.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00390.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00390.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00390.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00404.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00404.json idx 1: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00252.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00252.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00562.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00562.json menu index 1: str임 -> price
+❤️ sub_key로 skip: 00157.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00157.json idx 1: ['unitprice', 'sub']
+💚 딕셔너리가 아니라 skip된 파일: 00513.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00513.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00513.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00748.json idx 0: ['discountprice']
+❤️ sub_key로 skip: 00748.json idx 1: ['num']
+❤️ sub_key로 skip: 00748.json idx 2: ['num', 'discountprice']
+❤️ sub_key로 skip: 00748.json idx 3: ['num']
+❤️ sub_key로 skip: 00748.json idx 4: ['num']
+❤️ sub_key로 skip: 00748.json idx 5: ['num', 'discountprice']
+❤️ sub_key로 skip: 00748.json idx 6: ['num', 'discountprice']
+❤️ sub_key로 skip: 00748.json idx 7: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00748.json idx 8: ['num']
+❤️ sub_key로 skip: 00748.json idx 9: ['num']
+❤️ sub_key로 skip: 00748.json idx 10: ['num']
+❤️ sub_key로 skip: 00748.json idx 11: ['num']
+💚 딕셔너리가 아니라 skip된 파일: 00291.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00291.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00291.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00291.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00230.json idx 5: ['sub']
+❤️ sub_key로 skip: 00230.json idx 6: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00183.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00183.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00183.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00712.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00712.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00712.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00712.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00712.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00666.json idx 5: ['sub']
+❤️ sub_key로 skip: 00558.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00558.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00625.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00625.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00625.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00625.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00575.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00575.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00087.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00087.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00198.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00198.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00198.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00740.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00740.json idx 1: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00707.json idx 1: ['sub']
+❤️ sub_key로 skip: 00215.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00215.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00215.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00798.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00798.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00798.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00798.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00651.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00651.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00651.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00453.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00453.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00591.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00591.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00591.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00591.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00537.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00537.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00537.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00181.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00424.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00424.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00424.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00688.json idx 3: ['sub']
+❤️ sub_key로 skip: 00688.json idx 4: ['sub']
+❤️ sub_key로 skip: 00688.json idx 5: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00602.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00602.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00602.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00521.json idx 2: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00441.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00441.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00441.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00441.json menu index 3: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00441.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00503.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00503.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00270.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00270.json menu index 1: str임 -> price
+❤️ sub_key로 skip: 00690.json idx 0: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00326.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00326.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00326.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00683.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00683.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00683.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00694.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00694.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00694.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00694.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00553.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00553.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00553.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00553.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00391.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00391.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00391.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00391.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00377.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00377.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00377.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00377.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00573.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00573.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00573.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00573.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00236.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00236.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00236.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00697.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00697.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00697.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00642.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00642.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00642.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00642.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00721.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00721.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00721.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00721.json menu index 3: str임 -> vatyn
+❤️ sub_key로 skip: 00478.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00478.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00478.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00478.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00478.json idx 4: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00268.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00268.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00268.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00268.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00378.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00378.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00378.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00378.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00378.json menu index 4: str임 -> sub
+❤️ sub_key로 skip: 00077.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00077.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00077.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00077.json idx 3: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00698.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00698.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00698.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00164.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00164.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00164.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00164.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00080.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00080.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00080.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00080.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00228.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00228.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00228.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00228.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00609.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00609.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00167.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00021.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00021.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00021.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00039.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00039.json menu index 1: str임 -> price
+❤️ sub_key로 skip: 00567.json idx 0: ['discountprice']
+❤️ sub_key로 skip: 00567.json idx 1: ['discountprice']
+❤️ sub_key로 skip: 00567.json idx 4: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00567.json idx 7: ['discountprice']
+❤️ sub_key로 skip: 00567.json idx 8: ['discountprice']
+❤️ sub_key로 skip: 00567.json idx 9: ['discountprice']
+❤️ sub_key로 skip: 00567.json idx 10: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00082.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00082.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00082.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00496.json idx 0: ['sub']
+❤️ sub_key로 skip: 00613.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00613.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00556.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00556.json idx 1: ['unitprice', 'discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00460.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00460.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00460.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00460.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00322.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00322.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00322.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00322.json idx 3: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00187.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00187.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00187.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00333.json menu index 0: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00333.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00654.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00654.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00654.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00654.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00238.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00238.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00238.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00238.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00066.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00066.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00463.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00463.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00463.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00463.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00056.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00056.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00583.json idx 2: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00240.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00240.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00240.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00240.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00240.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00033.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00033.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00033.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00665.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00665.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00665.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00665.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00587.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00587.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00792.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00792.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00792.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00173.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00173.json menu index 1: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00173.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00380.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00380.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00380.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00380.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00648.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00648.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00648.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00648.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00130.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00130.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00130.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00790.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00790.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00790.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00343.json idx 0: ['sub']
+❤️ sub_key로 skip: 00213.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00213.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00233.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00233.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00101.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00101.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00101.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00475.json idx 0: ['sub']
+❤️ sub_key로 skip: 00475.json idx 1: ['sub']
+❤️ sub_key로 skip: 00475.json idx 2: ['sub']
+❤️ sub_key로 skip: 00475.json idx 3: ['sub']
+❤️ sub_key로 skip: 00475.json idx 4: ['sub']
+❤️ sub_key로 skip: 00475.json idx 5: ['sub']
+❤️ sub_key로 skip: 00475.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00475.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00475.json idx 9: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00495.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00495.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00129.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00129.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00129.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00129.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00672.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00672.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00168.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00168.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00168.json menu index 2: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00168.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00075.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00075.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00075.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00075.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00075.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00075.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00075.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00075.json idx 7: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00244.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00244.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00244.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00244.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00409.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00409.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00409.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00409.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00636.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00636.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00067.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00067.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00067.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00124.json idx 0: ['sub']
+❤️ sub_key로 skip: 00124.json idx 1: ['sub']
+❤️ sub_key로 skip: 00124.json idx 2: ['sub']
+❤️ sub_key로 skip: 00124.json idx 3: ['sub']
+❤️ sub_key로 skip: 00124.json idx 4: ['sub']
+❤️ sub_key로 skip: 00124.json idx 5: ['sub']
+❤️ sub_key로 skip: 00124.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00124.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00124.json idx 8: ['unitprice']
+❤️ sub_key로 skip: 00124.json idx 9: ['unitprice']
+❤️ sub_key로 skip: 00369.json idx 0: ['sub']
+❤️ sub_key로 skip: 00369.json idx 1: ['sub']
+❤️ sub_key로 skip: 00472.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00472.json idx 1: ['unitprice', 'discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00682.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00682.json menu index 1: str임 -> price
+❤️ sub_key로 skip: 00392.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00392.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00161.json idx 0: ['sub']
+❤️ sub_key로 skip: 00161.json idx 1: ['sub']
+❤️ sub_key로 skip: 00617.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00617.json idx 4: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00783.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00783.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00783.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00222.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00222.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00222.json menu index 2: str임 -> sub
+❤️ sub_key로 skip: 00342.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00342.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00342.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00032.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00032.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00032.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00070.json idx 0: ['sub']
+❤️ sub_key로 skip: 00070.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00073.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00073.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00073.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00073.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00073.json menu index 4: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00526.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00526.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00526.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00526.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00194.json idx 0: ['num']
+❤️ sub_key로 skip: 00194.json idx 1: ['num']
+❤️ sub_key로 skip: 00194.json idx 2: ['num']
+💚 딕셔너리가 아니라 skip된 파일: 00311.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00311.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00311.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00718.json idx 1: ['sub']
+❤️ sub_key로 skip: 00718.json idx 2: ['sub']
+❤️ sub_key로 skip: 00548.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00548.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00548.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00172.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00172.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00172.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00172.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00202.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00202.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00202.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00569.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00569.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00569.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00569.json idx 3: ['num', 'unitprice']
+❤️ sub_key로 skip: 00569.json idx 4: ['num', 'unitprice']
+❤️ sub_key로 skip: 00569.json idx 5: ['num', 'unitprice']
+❤️ sub_key로 skip: 00569.json idx 6: ['num', 'unitprice']
+❤️ sub_key로 skip: 00365.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00653.json idx 3: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00705.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00705.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00705.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00705.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00324.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00324.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00324.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00324.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00727.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00727.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00727.json idx 2: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00727.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00727.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00393.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00393.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00097.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00097.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00097.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00097.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00504.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00504.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00504.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00383.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00383.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00383.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00383.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00368.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00368.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00201.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00201.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00201.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00201.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00201.json menu index 4: str임 -> sub
+❤️ sub_key로 skip: 00355.json idx 0: ['sub']
+❤️ sub_key로 skip: 00355.json idx 1: ['sub']
+❤️ sub_key로 skip: 00436.json idx 3: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00470.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00470.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00470.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00470.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00781.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00781.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00781.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00781.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00447.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00447.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00447.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00522.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00522.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00405.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00405.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00405.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00405.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00405.json menu index 4: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00489.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00489.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00489.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00489.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00379.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00379.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00379.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00379.json idx 3: ['num', 'unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00046.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00046.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00046.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00046.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00490.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00490.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00490.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00490.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00095.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00095.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00095.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00095.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00637.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00637.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00637.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00088.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00088.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00695.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00695.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00639.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00639.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00639.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00135.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00135.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00135.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00615.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00615.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00615.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00746.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00746.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00746.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00746.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00644.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00644.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00644.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00644.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00412.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00412.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00412.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00286.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00286.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00286.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00430.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00430.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00430.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00219.json idx 6: ['unitprice', 'discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00431.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00431.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00763.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00763.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00763.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00763.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00763.json menu index 4: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00309.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00309.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00309.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00309.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00309.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00794.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00794.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00758.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00758.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00758.json menu index 2: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00758.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00332.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00332.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00332.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00332.json idx 3: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00332.json idx 4: ['unitprice', 'discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00464.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00464.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00464.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00754.json idx 0: ['sub']
+❤️ sub_key로 skip: 00754.json idx 1: ['sub']
+❤️ sub_key로 skip: 00702.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00702.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00702.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00217.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00217.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00078.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00078.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00078.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00078.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00121.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00121.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00010.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00010.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00010.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00010.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00645.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00645.json idx 1: ['unitprice', 'sub']
+💚 딕셔너리가 아니라 skip된 파일: 00166.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00166.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00166.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00166.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00700.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00700.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00700.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00755.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00755.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00755.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00755.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00204.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00204.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00204.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00204.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00041.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00041.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00041.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00185.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00185.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00185.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00185.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00160.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00160.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00006.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00006.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00090.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00090.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00090.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00090.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00673.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00673.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00673.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00063.json idx 0: ['discountprice']
+❤️ sub_key로 skip: 00063.json idx 1: ['discountprice']
+❤️ sub_key로 skip: 00063.json idx 2: ['discountprice']
+❤️ sub_key로 skip: 00371.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00371.json idx 1: ['unitprice', 'sub']
+💚 딕셔너리가 아니라 skip된 파일: 00237.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00237.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00237.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00237.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00237.json menu index 4: str임 -> sub
+❤️ sub_key로 skip: 00505.json idx 0: ['discountprice']
+❤️ sub_key로 skip: 00505.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00505.json idx 2: ['discountprice']
+❤️ sub_key로 skip: 00505.json idx 3: ['discountprice']
+❤️ sub_key로 skip: 00505.json idx 4: ['discountprice']
+❤️ sub_key로 skip: 00505.json idx 5: ['discountprice']
+❤️ sub_key로 skip: 00505.json idx 6: ['discountprice']
+❤️ sub_key로 skip: 00505.json idx 7: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00174.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00174.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00174.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00733.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00733.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00148.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00148.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00148.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00148.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00009.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00009.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00009.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00009.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00108.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00108.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00108.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00108.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00108.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00640.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00640.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00640.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00640.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00660.json idx 0: ['num', 'unitprice', 'discountprice']
+❤️ sub_key로 skip: 00660.json idx 1: ['num', 'unitprice', 'discountprice']
+❤️ sub_key로 skip: 00660.json idx 2: ['num', 'unitprice', 'discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00715.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00715.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00715.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00715.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00356.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00356.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00356.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00356.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00397.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00397.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00397.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00397.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00397.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00397.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00397.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00304.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00304.json idx 1: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00778.json idx 0: ['sub']
+❤️ sub_key로 skip: 00778.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00692.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00692.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00692.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00374.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00374.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00374.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00563.json idx 2: ['sub']
+❤️ sub_key로 skip: 00563.json idx 4: ['sub']
+❤️ sub_key로 skip: 00492.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00492.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00253.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00253.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00253.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00253.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00771.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00771.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00771.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00169.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00169.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00169.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00169.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00169.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00062.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00062.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00062.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00062.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00062.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00484.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00484.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00484.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00728.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00728.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00728.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00728.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00098.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00098.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00098.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00732.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00732.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00732.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00732.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00028.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00028.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00028.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00028.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00193.json idx 0: ['num']
+❤️ sub_key로 skip: 00193.json idx 1: ['num']
+❤️ sub_key로 skip: 00193.json idx 2: ['num']
+❤️ sub_key로 skip: 00193.json idx 3: ['num']
+❤️ sub_key로 skip: 00193.json idx 4: ['num', 'unitprice']
+❤️ sub_key로 skip: 00193.json idx 5: ['num']
+💚 딕셔너리가 아니라 skip된 파일: 00145.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00145.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00145.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00145.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00271.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00271.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00271.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00271.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00271.json menu index 4: str임 -> sub
+❤️ sub_key로 skip: 00316.json idx 2: ['sub']
+❤️ sub_key로 skip: 00316.json idx 5: ['sub']
+❤️ sub_key로 skip: 00407.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00407.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00407.json idx 2: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00632.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00632.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00632.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00759.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00759.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00759.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00759.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00759.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00759.json idx 5: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00086.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00086.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00086.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00345.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00345.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00345.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00247.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00247.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00247.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00618.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00618.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00618.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00076.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00076.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00076.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00510.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00510.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00510.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00137.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00137.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00608.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00608.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00608.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00608.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00791.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00791.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00338.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00338.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00353.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00353.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00353.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00353.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00140.json idx 0: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00546.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00546.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00546.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00546.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00100.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00100.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00100.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00402.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00402.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00594.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00594.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00594.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00227.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00227.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00227.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00227.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00328.json idx 2: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00136.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00136.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00223.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00223.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00223.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00764.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00764.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00764.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00250.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00250.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00250.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00250.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00753.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00753.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00753.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00527.json idx 0: ['sub']
+❤️ sub_key로 skip: 00527.json idx 1: ['sub']
+❤️ sub_key로 skip: 00527.json idx 2: ['sub']
+❤️ sub_key로 skip: 00527.json idx 3: ['sub']
+❤️ sub_key로 skip: 00527.json idx 5: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00527.json idx 6: ['sub']
+❤️ sub_key로 skip: 00527.json idx 8: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00714.json menu index 0: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00714.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00714.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00714.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00058.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00058.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00058.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00058.json idx 3: ['num', 'unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00267.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00267.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00267.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00267.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00212.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00212.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00212.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00212.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00212.json menu index 4: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00737.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00737.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00737.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00466.json idx 2: ['sub']
+❤️ sub_key로 skip: 00278.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00278.json idx 1: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00278.json idx 2: ['unitprice', 'sub']
+💚 딕셔너리가 아니라 skip된 파일: 00799.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00799.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00799.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00016.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00016.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00016.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00744.json idx 0: ['sub']
+❤️ sub_key로 skip: 00796.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00796.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00125.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00125.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00125.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00125.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00413.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00413.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00413.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00229.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00229.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00518.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00518.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00671.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00671.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00671.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00671.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00446.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00446.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00446.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00480.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00480.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00480.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00713.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00713.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00713.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00713.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00315.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00315.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00315.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00053.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00053.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00455.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00455.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00455.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00457.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00457.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00457.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00457.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00394.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00394.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00127.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00127.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00127.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00127.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00210.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00210.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00210.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00534.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00534.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00534.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00134.json idx 0: ['sub']
+❤️ sub_key로 skip: 00134.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00035.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00035.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00035.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00035.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00283.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00283.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00396.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00396.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00396.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00396.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00786.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00786.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00786.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00525.json menu index 0: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00525.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00525.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00061.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00061.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00061.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00061.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00410.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00410.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00410.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00300.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00300.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00312.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00312.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00312.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00287.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00287.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00287.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00287.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00197.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00197.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00197.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00532.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00532.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00532.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00154.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00154.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00154.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00154.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00216.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00216.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00216.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00797.json idx 2: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00074.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00074.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00074.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00629.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00629.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00629.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00629.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00415.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00415.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00415.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00415.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00288.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00288.json menu index 1: str임 -> price
+❤️ sub_key로 skip: 00597.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00597.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00189.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00189.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00189.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00163.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00163.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00163.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00163.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00354.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00354.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00007.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00007.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00296.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00296.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00296.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00296.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00507.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00507.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00507.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00507.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00600.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00600.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00600.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00363.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00363.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00363.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00550.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00550.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00550.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00550.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00330.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00330.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00330.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00485.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00485.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00485.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00485.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00434.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00434.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00434.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00119.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00119.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00119.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00119.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00635.json idx 4: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00473.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00473.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00473.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00473.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00473.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00664.json idx 0: ['discountprice']
+❤️ sub_key로 skip: 00664.json idx 1: ['discountprice']
+❤️ sub_key로 skip: 00024.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00024.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00024.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00008.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00008.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00723.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00723.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00723.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00723.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00655.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00655.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00572.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00572.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00572.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00572.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00147.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00147.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00147.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00147.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00736.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00736.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00736.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00585.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00585.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00703.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00703.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00703.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00384.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00384.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00384.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00384.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00531.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00531.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00531.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00769.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00769.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00769.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00561.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00561.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00561.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00506.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00506.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00793.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00793.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00793.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00793.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00722.json idx 0: ['sub']
+❤️ sub_key로 skip: 00722.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00770.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00770.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00770.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00770.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00638.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00638.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00638.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00313.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00313.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00313.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00126.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00126.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00126.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00317.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00317.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00317.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00317.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00226.json idx 3: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00620.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00620.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00620.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00584.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00584.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00584.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00584.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00584.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00584.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00584.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00079.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00079.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00266.json idx 0: ['sub']
+❤️ sub_key로 skip: 00266.json idx 1: ['sub']
+❤️ sub_key로 skip: 00266.json idx 2: ['sub']
+❤️ sub_key로 skip: 00266.json idx 3: ['sub']
+❤️ sub_key로 skip: 00266.json idx 4: ['sub']
+❤️ sub_key로 skip: 00266.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00266.json idx 7: ['sub']
+❤️ sub_key로 skip: 00266.json idx 11: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00519.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00519.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00519.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00064.json idx 0: ['num']
+❤️ sub_key로 skip: 00064.json idx 1: ['num']
+❤️ sub_key로 skip: 00064.json idx 2: ['num']
+❤️ sub_key로 skip: 00180.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00180.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00180.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00180.json idx 5: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00165.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00165.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00165.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00165.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00420.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00420.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00420.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00627.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00627.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00627.json menu index 2: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00627.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00662.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00662.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00662.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00675.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00675.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00675.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00026.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00026.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00026.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00026.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00034.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00034.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00034.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00034.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00719.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00719.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00719.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00719.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00358.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00358.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00358.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00358.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00047.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00047.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00055.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00055.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00055.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00055.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00200.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00200.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00225.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00225.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00225.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00225.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00178.json idx 0: ['num']
+❤️ sub_key로 skip: 00178.json idx 1: ['num']
+💚 딕셔너리가 아니라 skip된 파일: 00306.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00306.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00306.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00306.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00306.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00745.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00745.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00745.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00048.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00048.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00048.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00048.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00502.json idx 1: ['discountprice']
+❤️ sub_key로 skip: 00686.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00686.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00686.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00443.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00443.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00443.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00443.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00762.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00762.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00762.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00426.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00327.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00327.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00327.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00779.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00779.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00451.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00451.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00451.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00451.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00388.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00388.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00388.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00388.json idx 3: ['num', 'unitprice']
+❤️ sub_key로 skip: 00388.json idx 4: ['num', 'unitprice']
+❤️ sub_key로 skip: 00388.json idx 5: ['num', 'unitprice']
+❤️ sub_key로 skip: 00388.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00388.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00388.json idx 8: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00037.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00037.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00182.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00182.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00182.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00182.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00747.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00747.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00747.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00483.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00483.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00483.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00479.json idx 0: ['num', 'discountprice', 'itemsubtotal']
+❤️ sub_key로 skip: 00479.json idx 1: ['num']
+❤️ sub_key로 skip: 00001.json idx 1: ['sub']
+❤️ sub_key로 skip: 00001.json idx 2: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00765.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00765.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00765.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00765.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00419.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00419.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00419.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00419.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00419.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00301.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00301.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00656.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00656.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00656.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00656.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00577.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00577.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00577.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00577.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00577.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00089.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00089.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00089.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00081.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00081.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00081.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00323.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00323.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00323.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00678.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00678.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00678.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00678.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00542.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00542.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00542.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00689.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00689.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00428.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00428.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00428.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00132.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00132.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00117.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00117.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00117.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00117.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00437.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00437.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00272.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00272.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00775.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00775.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00775.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00775.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00020.json idx 0: ['discountprice']
+❤️ sub_key로 skip: 00020.json idx 2: ['discountprice']
+❤️ sub_key로 skip: 00020.json idx 3: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00543.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00543.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00543.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00543.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00113.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00113.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00663.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00663.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00663.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00663.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00406.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00406.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00406.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00406.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00116.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00116.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00116.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00114.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00114.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00114.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00114.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00114.json menu index 4: str임 -> sub
+❤️ sub_key로 skip: 00149.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00149.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00149.json idx 2: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00149.json idx 3: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00149.json idx 4: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00149.json idx 5: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00149.json idx 6: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00477.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00155.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00155.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00155.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00155.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00257.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00257.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00257.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00257.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00452.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00452.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00452.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00500.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00500.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00500.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00235.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00235.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00235.json idx 2: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00235.json idx 3: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00691.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00691.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00474.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00474.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00474.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00348.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00348.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00348.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00348.json menu index 3: str임 -> vatyn
+💚 딕셔너리가 아니라 skip된 파일: 00780.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00780.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00780.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00103.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00103.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00103.json idx 9: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00724.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00724.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00724.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00186.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00186.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00186.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00399.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00399.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00399.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00647.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00647.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00647.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00274.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00274.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00143.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00143.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00143.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00231.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00231.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00231.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00231.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00231.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00231.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00231.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00231.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00674.json idx 0: ['sub']
+❤️ sub_key로 skip: 00674.json idx 1: ['sub']
+❤️ sub_key로 skip: 00674.json idx 2: ['sub']
+❤️ sub_key로 skip: 00674.json idx 3: ['sub']
+❤️ sub_key로 skip: 00674.json idx 4: ['sub']
+❤️ sub_key로 skip: 00674.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00674.json idx 7: ['sub']
+❤️ sub_key로 skip: 00674.json idx 11: ['unitprice']
+❤️ sub_key로 skip: 00643.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00643.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00459.json idx 0: ['num']
+❤️ sub_key로 skip: 00459.json idx 1: ['num']
+❤️ sub_key로 skip: 00459.json idx 2: ['num']
+❤️ sub_key로 skip: 00459.json idx 3: ['num']
+💚 딕셔너리가 아니라 skip된 파일: 00038.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00038.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00038.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00785.json idx 1: ['discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00320.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00320.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00320.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00023.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00023.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00023.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00023.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00023.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00290.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00290.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00290.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00290.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00255.json idx 2: ['sub']
+❤️ sub_key로 skip: 00072.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00072.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00294.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00294.json idx 4: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00734.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00734.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00734.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00574.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00574.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00574.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00467.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00467.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00467.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00467.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00467.json menu index 4: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00242.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00242.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00242.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00242.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00387.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00387.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00387.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00387.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00789.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00789.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00789.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00099.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00099.json idx 1: ['unitprice', 'sub']
+💚 딕셔너리가 아니라 skip된 파일: 00350.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00350.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00350.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00350.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00579.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00579.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00579.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00049.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00049.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00049.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00729.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00729.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00729.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00305.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00305.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00749.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00749.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00749.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00749.json menu index 3: str임 -> discountprice
+💚 딕셔너리가 아니라 skip된 파일: 00749.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00581.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00581.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00710.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00710.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00710.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00710.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00258.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00258.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00258.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00258.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00669.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00669.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00669.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00481.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00481.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00481.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00481.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 8: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 9: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 10: ['unitprice']
+❤️ sub_key로 skip: 00544.json idx 11: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00314.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00314.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00314.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00468.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00468.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00468.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00468.json idx 3: ['unitprice']
+❤️ sub_key로 skip: 00468.json idx 4: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00411.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00411.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00411.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00411.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00411.json menu index 4: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00307.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00307.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00307.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00281.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00281.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00281.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00634.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00634.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00634.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00634.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00276.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00276.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00276.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00276.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00150.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00150.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00150.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00289.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00289.json idx 4: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00389.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00389.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00389.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00566.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00566.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00566.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00566.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00650.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00444.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00444.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00444.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00444.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00541.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00541.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00541.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00541.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00206.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00206.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00206.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00658.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00658.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00658.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00658.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00580.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00580.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00580.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00153.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00153.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00153.json menu index 2: str임 -> sub
+❤️ sub_key로 skip: 00177.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00177.json idx 1: ['num', 'unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00042.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00042.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00042.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00042.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00557.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00557.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00557.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00741.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00741.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00741.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00670.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00670.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00670.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00670.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00249.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00249.json menu index 1: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00607.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00607.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00607.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00607.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00623.json idx 0: ['sub']
+❤️ sub_key로 skip: 00623.json idx 2: ['sub']
+❤️ sub_key로 skip: 00623.json idx 3: ['sub']
+❤️ sub_key로 skip: 00623.json idx 4: ['unitprice']
+❤️ sub_key로 skip: 00623.json idx 5: ['unitprice']
+❤️ sub_key로 skip: 00711.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00711.json idx 7: ['unitprice']
+❤️ sub_key로 skip: 00711.json idx 8: ['unitprice']
+❤️ sub_key로 skip: 00711.json idx 9: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00536.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00536.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00536.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00536.json menu index 3: str임 -> sub
+💚 딕셔너리가 아니라 skip된 파일: 00123.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00123.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00123.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00524.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00524.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00524.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00524.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00110.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00110.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00110.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00576.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00576.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00576.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00014.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00014.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00486.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00486.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00486.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00486.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00598.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00598.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00598.json idx 2: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00535.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00535.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00535.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00248.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00248.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00248.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00699.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00699.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00699.json idx 2: ['num', 'unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00170.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00170.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00170.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00170.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00141.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00141.json menu index 1: str임 -> num
+💚 딕셔너리가 아니라 skip된 파일: 00141.json menu index 2: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00141.json menu index 3: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00141.json menu index 4: str임 -> price
+❤️ sub_key로 skip: 00364.json idx 0: ['sub']
+❤️ sub_key로 skip: 00364.json idx 1: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00708.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00708.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00708.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00708.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00156.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00156.json idx 1: ['unitprice']
+❤️ sub_key로 skip: 00171.json idx 0: ['sub']
+❤️ sub_key로 skip: 00171.json idx 1: ['sub']
+❤️ sub_key로 skip: 00171.json idx 2: ['sub']
+💚 딕셔너리가 아니라 skip된 파일: 00382.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00382.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00382.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00259.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00259.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00259.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00259.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00523.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00523.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00523.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00224.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00224.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00224.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00224.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00162.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00162.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00162.json idx 2: ['unitprice', 'discountprice']
+💚 딕셔너리가 아니라 skip된 파일: 00339.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00339.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00339.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00339.json menu index 3: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00139.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00139.json menu index 1: str임 -> unitprice
+💚 딕셔너리가 아니라 skip된 파일: 00139.json menu index 2: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00139.json menu index 3: str임 -> price
+❤️ sub_key로 skip: 00302.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00302.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00596.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00596.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00596.json menu index 2: str임 -> price
+💚 딕셔너리가 아니라 skip된 파일: 00596.json menu index 3: str임 -> sub
+❤️ sub_key로 skip: 00019.json idx 0: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00019.json idx 1: ['sub']
+❤️ sub_key로 skip: 00019.json idx 2: ['sub']
+❤️ sub_key로 skip: 00019.json idx 3: ['unitprice', 'sub']
+❤️ sub_key로 skip: 00019.json idx 5: ['sub']
+❤️ sub_key로 skip: 00019.json idx 6: ['unitprice']
+❤️ sub_key로 skip: 00019.json idx 7: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00188.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00188.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00188.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00199.json idx 0: ['num', 'unitprice']
+❤️ sub_key로 skip: 00199.json idx 1: ['num', 'unitprice']
+❤️ sub_key로 skip: 00199.json idx 2: ['num', 'unitprice']
+❤️ sub_key로 skip: 00787.json idx 0: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 1: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 2: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 3: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 4: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 5: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 6: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 7: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 8: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00787.json idx 9: ['unitprice', 'discountprice']
+❤️ sub_key로 skip: 00131.json idx 0: ['unitprice']
+❤️ sub_key로 skip: 00131.json idx 1: ['unitprice']
+💚 딕셔너리가 아니라 skip된 파일: 00559.json menu index 0: str임 -> nm
+💚 딕셔너리가 아니라 skip된 파일: 00559.json menu index 1: str임 -> cnt
+💚 딕셔너리가 아니라 skip된 파일: 00559.json menu index 2: str임 -> price
+❤️ sub_key로 skip: 00439.json idx 2: ['unitprice']
+❤️ sub_key로 skip: 00439.json idx 6: ['discountprice']

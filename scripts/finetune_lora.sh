@@ -17,7 +17,7 @@ GRAD_ACCUM_STEPS=$((GLOBAL_BATCH_SIZE / (BATCH_PER_DEVICE * NUM_DEVICES)))
 
 # If you want to tune the `embed_token` with LoRA, You need to tune `lm_head` together
 
-deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/train_sft.py \
+deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/src/train/train_sft.py \
     --use_liger True \
     --lora_enable True \
     --use_dora False \
@@ -28,7 +28,7 @@ deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/train_sft.py \
     --num_lora_modules -1 \
     --deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/zero3_offload.json \
     --model_id $MODEL_NAME \
-    --data_path /home/jwlee/volume/Qwen2-vl-finetune-wo/synth_rx/train_cord.json \
+    --data_path /home/jwlee/volume/Qwen2-vl-finetune-wo/synth_rx/qa_datasets_LLaVA_for_finetune.json \
     --image_folder /home/jwlee/volume/Qwen2-vl-finetune-wo/data/cord_sample/images \
     --remove_unused_columns False \
     --freeze_vision_tower False \
