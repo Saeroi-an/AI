@@ -2,6 +2,7 @@
   "gt_parse": {
     "menu": [
       {
+        "nm": "AV",
         "unitprice": "12.000",
         "cnt": "3",
         "price": "36.000"

@@ -5,7 +5,7 @@ import os
 # JSON 파일 위치
 json_files = glob.glob("data/cord_sample/annotations_json/*.json")
 # 저장할 JSON 파일 위치
-save_path = "synth_rx/train_cord.json"
+save_path = "/home/jwlee/volume/Qwen2-vl-finetune-wo/synth_rx/train_cord.json"
 
 # 이미지 파일 위치
 image_files = glob.glob("data/cord_sample/images/*.jpg")
@@ -23,11 +23,13 @@ for json_path in json_files:
 
     gt_parse = data.get("gt_parse", {})
     conv = []
-
+    first_prompt = True
     # ---- 메뉴 항목 처리 ----
     for item in gt_parse.get("menu", []):
         if not isinstance(item, dict):
             continue  # dict 아닌 경우 스킵
+        
+        
 
         for k in ["nm", "cnt", "price", "unitprice"]:  # 일부 데이터에는 unitprice 존재
             if k not in item:
@@ -46,15 +48,22 @@ for json_path in json_files:
                     break
 
             if quad:
+                human_prompt = f"이미지 안의 {k} 항목의 값을 알려줘. 정답은 제공한 좌표 근처에 있어. (quad: {json.dumps(quad, ensure_ascii=False)})"
+                if first_prompt:
+                    human_prompt = "<image>\n" + human_prompt
+                    first_prompt = False
+
                 conv.append({
                     "from": "human",
-                    "value": f"이 항목의 {k}를 알려줘. 정답은 제공한 좌표 근처에 있어. (quad: {json.dumps(quad, ensure_ascii=False)})"
+                    "value": human_prompt
                 })
                 conv.append({
                     "from": "gpt",
                     "value": item[k]
                 })
 
+   
+   
     # ---- total 처리 ----
     total = gt_parse.get("total", {})
     for k, v in total.items():
@@ -66,7 +75,7 @@ for json_path in json_files:
         if quad:
             conv.append({
                 "from": "human",
-                "value": f"제공한 좌표를 보고 이 항목의 {k}를 알려줘 (quad: {json.dumps(quad, ensure_ascii=False)})"
+                "value": "<image>제공한 좌표를 보고 이 항목의 {k}를 알려줘 (quad: {json.dumps(quad, ensure_ascii=False)})"
             })
             conv.append({
                 "from": "gpt",

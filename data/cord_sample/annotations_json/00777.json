@@ -2,24 +2,10 @@
   "gt_parse": {
     "menu": [
       {
-        "nm": "CHINESE TE",
-        "unitprice": "14.000",
-        "cnt": "3",
-        "price": "42,000"
-      },
-      {
-        "nm": "CRYSANTNUM",
-        "cnt": "3"
-      },
-      {
-        "nm": "CHINESE TE",
+        "nm": "CHINESE TE CRYSANTNUM",
         "unitprice": "14,000",
         "cnt": "3",
-        "price": "42,000"
-      },
-      {
-        "nm": "CRYSANTNUM",
-        "cnt": "3",
+        "price": "42,000",
         "etc": "TMBHN CUP"
       },
       {
