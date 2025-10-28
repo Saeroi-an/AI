@@ -1,0 +1,19 @@
+{
+  "name": "신예린",
+  "dob": "940627-1564005",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "B95",
+  "code_B": "R51",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 내과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "7일"
+}

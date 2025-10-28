@@ -1,0 +1,19 @@
+{
+  "name": "정민서",
+  "dob": "940506-1346521",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "오메프라졸 20mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "B34",
+  "code_B": "K21",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "5ml",
+  "period_B_2": "1",
+  "period_B_3": "7일"
+}

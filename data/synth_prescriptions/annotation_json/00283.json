@@ -1,0 +1,19 @@
+{
+  "name": "오하은",
+  "dob": "920610-2968984",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "심바스타틴 20mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "J02",
+  "code_B": "N18",
+  "disease_name_A": "삼성서울병원, 외과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "hospital": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "period_A_1": "10ML",
+  "period_A_2": "2",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "3회",
+  "period_B_3": "14"
+}

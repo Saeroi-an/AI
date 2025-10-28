@@ -1,0 +1,19 @@
+{
+  "name": "유하윤",
+  "dob": "960512-1532317",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "암로디핀 5mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "L27",
+  "code_B": "K52",
+  "disease_name_A": "충북대학교병원, 영상의학과",
+  "disease_name_B": "충북대학교병원, 내과",
+  "hospital": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "period_A_1": "2정",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "14일"
+}

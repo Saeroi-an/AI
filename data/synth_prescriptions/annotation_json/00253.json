@@ -1,0 +1,19 @@
+{
+  "name": "최지우",
+  "dob": "910523-2710227",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "J06",
+  "code_B": "L23",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "충북대학교병원, 신경과",
+  "hospital": "충북대학교병원, 신경과",
+  "period_A_1": "10ML",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "2정",
+  "period_B_2": "1회",
+  "period_B_3": "14일"
+}

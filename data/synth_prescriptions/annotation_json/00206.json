@@ -1,0 +1,19 @@
+{
+  "name": "조예린",
+  "dob": "911108-1720832",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "필요 시 복용",
+  "code_A": "L23",
+  "code_B": "B34",
+  "disease_name_A": "충북대학교병원, 신경과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "hospital": "충북대학교병원, 영상의학과",
+  "period_A_1": "2정",
+  "period_A_2": "1회",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "14일"
+}

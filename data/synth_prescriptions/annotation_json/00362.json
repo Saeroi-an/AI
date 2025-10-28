@@ -1,0 +1,19 @@
+{
+  "name": "이하윤",
+  "dob": "970914-1818826",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "심바스타틴 20mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "H54",
+  "code_B": "F43",
+  "disease_name_A": "의료법인한마음의료재단\n하나병원, 신경내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 외과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "5",
+  "period_B_1": "2정",
+  "period_B_2": "2",
+  "period_B_3": "14일"
+}

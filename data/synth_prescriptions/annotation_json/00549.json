@@ -1,0 +1,23 @@
+{
+  "name": "정민서",
+  "dob": "940908-1788606",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "K21",
+  "code_B": "R50",
+  "disease_name_A": "충북대학교병원, 정형외과",
+  "disease_name_B": "청주의료원, 이비인후과",
+  "hospital": "충주유외과의원, 외과",
+  "period_A_1": "5ml",
+  "period_A_2": "2회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "7",
+  "period_C_1": "10ML",
+  "period_C_2": "3",
+  "period_C_3": "5일"
+}

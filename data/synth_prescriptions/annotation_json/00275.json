@@ -1,0 +1,19 @@
+{
+  "name": "최지우",
+  "dob": "910919-2568190",
+  "date": "2025-10-27",
+  "medication_A": "아목시실린 500mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "J06",
+  "code_B": "M51",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "삼성서울병원, 외과",
+  "period_A_1": "2정",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "10ML",
+  "period_B_2": "2",
+  "period_B_3": "5일"
+}

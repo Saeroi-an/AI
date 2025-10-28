@@ -1,0 +1,19 @@
+{
+  "name": "정민서",
+  "dob": "940817-1802652",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "K57",
+  "code_B": "L27",
+  "disease_name_A": "충북대학교병원, 안과",
+  "disease_name_B": "충북대학교병원, 영상의학과",
+  "hospital": "이내과, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "10ml",
+  "period_B_2": "1",
+  "period_B_3": "7일"
+}

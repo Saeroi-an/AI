@@ -1,0 +1,19 @@
+{
+  "name": "강지우",
+  "dob": "900709-2885626",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "아목시실린 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "G43",
+  "code_B": "K30",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "disease_name_B": "충북대학교병원, 산부인과",
+  "hospital": "청주의료원, 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "5일",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "7일"
+}

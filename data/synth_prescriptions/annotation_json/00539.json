@@ -1,0 +1,23 @@
+{
+  "name": "정민서",
+  "dob": "940908-1788606",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "F33",
+  "code_B": "K52",
+  "disease_name_A": "의료법인 정산의료재단 효성병원,\n 정형외과",
+  "disease_name_B": "충북대학교병원, 내과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "5ml",
+  "period_B_2": "1",
+  "period_B_3": "7일",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "14일"
+}

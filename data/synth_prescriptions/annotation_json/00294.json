@@ -1,0 +1,19 @@
+{
+  "name": "신하은",
+  "dob": "941202-1394120",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "필요 시 복용",
+  "code_A": "M79",
+  "code_B": "R10",
+  "disease_name_A": "청주의료원, 외과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 소아청소년과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 내과",
+  "period_A_1": "10ML",
+  "period_A_2": "2회",
+  "period_A_3": "7일",
+  "period_B_1": "10ml",
+  "period_B_2": "1회",
+  "period_B_3": "14일"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "박하윤",
+  "dob": "900225-2351470",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "이부프로펜 200mg",
+  "medication_C": "메트포르민 500mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "K21",
+  "code_B": "M79",
+  "disease_name_A": "충북대학교병원, 정형외과",
+  "disease_name_B": "청주의료원, 외과",
+  "hospital": "의료법인한마음의료재단\n하나병원, 신경내과",
+  "period_A_1": "5ml",
+  "period_A_2": "2",
+  "period_A_3": "5일",
+  "period_B_1": "5ml",
+  "period_B_2": "1회",
+  "period_B_3": "14일",
+  "period_C_1": "1정",
+  "period_C_2": "1",
+  "period_C_3": "30일"
+}

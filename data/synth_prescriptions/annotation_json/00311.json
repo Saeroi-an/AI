@@ -1,0 +1,19 @@
+{
+  "name": "임민지",
+  "dob": "931007-1836808",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "메트포르민 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "J06",
+  "code_B": "J03",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "강남세브란스병원, 소아과",
+  "hospital": "치항고려외과의원, 외과",
+  "period_A_1": "10ml",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "10ML",
+  "period_B_2": "2회",
+  "period_B_3": "5일"
+}

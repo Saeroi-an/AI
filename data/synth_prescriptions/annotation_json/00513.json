@@ -1,0 +1,23 @@
+{
+  "name": "김소현",
+  "dob": "960608-1057824",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "medication_C": "오메프라졸 20mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "K30",
+  "code_B": "B95",
+  "disease_name_A": "충북대학교병원, 산부인과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "강남세브란스병원, 소아과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "7",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "30일"
+}

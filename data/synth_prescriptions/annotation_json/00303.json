@@ -1,0 +1,19 @@
+{
+  "name": "유하윤",
+  "dob": "960421-1546363",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "필요 시 복용",
+  "code_A": "A09",
+  "code_B": "L27",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 이비인후과",
+  "disease_name_B": "충북대학교병원, 영상의학과",
+  "hospital": "건국대학교 충주병원,\n 내과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "7",
+  "period_B_1": "10ML",
+  "period_B_2": "3회",
+  "period_B_3": "5일"
+}

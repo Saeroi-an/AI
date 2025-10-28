@@ -1,0 +1,23 @@
+{
+  "name": "서민서",
+  "dob": "920211-1778542",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "I10",
+  "code_B": "L29",
+  "disease_name_A": "장사랑박종범내과, 내과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "재단법인베스티안재단베스티안병원,\n 내과",
+  "period_A_1": "2정",
+  "period_A_2": "2",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "3회",
+  "period_B_3": "14",
+  "period_C_1": "10ml",
+  "period_C_2": "3회",
+  "period_C_3": "7일"
+}

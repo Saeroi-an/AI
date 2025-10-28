@@ -1,0 +1,19 @@
+{
+  "name": "정민서",
+  "dob": "940908-1788606",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "K29",
+  "code_B": "L25",
+  "disease_name_A": "충북대학교병원, 이비인후과",
+  "disease_name_B": "충북대학교병원, 가정의학과",
+  "hospital": "삼성서울병원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "7일",
+  "period_B_1": "2정",
+  "period_B_2": "1",
+  "period_B_3": "7일"
+}

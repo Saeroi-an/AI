@@ -1,0 +1,23 @@
+{
+  "name": "배지우",
+  "dob": "950224-2676071",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "이부프로펜 200mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "J01",
+  "code_B": "H52",
+  "disease_name_A": "서울아산병원, 내과",
+  "disease_name_B": "의료법인한마음의\n료재단하나병원, 산부인과",
+  "hospital": "의료법인 정산의료재단 효성병원,\n 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "1",
+  "period_B_3": "7일",
+  "period_C_1": "10ml",
+  "period_C_2": "3회",
+  "period_C_3": "5일"
+}

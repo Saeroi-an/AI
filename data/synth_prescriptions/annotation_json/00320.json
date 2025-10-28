@@ -1,0 +1,19 @@
+{
+  "name": "조하늘",
+  "dob": "940125-2569742",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "E11",
+  "code_B": "M51",
+  "disease_name_A": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "중앙외과의원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "30일"
+}

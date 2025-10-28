@@ -1,0 +1,19 @@
+{
+  "name": "최지우",
+  "dob": "910412-2724273",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "R50",
+  "code_B": "R10",
+  "disease_name_A": "청주의료원, 이비인후과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 소아청소년과",
+  "hospital": "건국대학교 충주병원,\n 신경과",
+  "period_A_1": "5ml",
+  "period_A_2": "3회",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "7일"
+}

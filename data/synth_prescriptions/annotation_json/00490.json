@@ -1,0 +1,23 @@
+{
+  "name": "배지은",
+  "dob": "960313-1906629",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "아스피린 100mg",
+  "medication_C": "오메프라졸 20mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "R11",
+  "code_B": "H53",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "disease_name_B": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "hospital": "청주의료원, 가정의학과",
+  "period_A_1": "10ML",
+  "period_A_2": "2",
+  "period_A_3": "5",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "7일",
+  "period_C_1": "5ml",
+  "period_C_2": "3회",
+  "period_C_3": "5일"
+}

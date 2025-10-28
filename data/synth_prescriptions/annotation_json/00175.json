@@ -1,0 +1,15 @@
+{
+  "name": "박지윤",
+  "dob": "901222-2372195",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "K30",
+  "code_B": "K21",
+  "disease_name_A": "충북대학교병원, 산부인과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "period_A_1": "10ml",
+  "period_A_2": "1회",
+  "period_A_3": "5일"
+}

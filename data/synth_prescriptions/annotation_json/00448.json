@@ -1,0 +1,23 @@
+{
+  "name": "조민지",
+  "dob": "910218-2630337",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "메트포르민 500mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "R11",
+  "code_B": "K21",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 정형외과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "5일",
+  "period_C_1": "10ML",
+  "period_C_2": "1",
+  "period_C_3": "14일"
+}

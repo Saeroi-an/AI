@@ -1,0 +1,15 @@
+{
+  "name": "강민서",
+  "dob": "000228-4761034",
+  "date": "2025-10-27",
+  "medication_A": "클로미펜정 50mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "K29",
+  "code_B": "H10",
+  "disease_name_A": "충북대학교병원, 이비인후과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 외과",
+  "hospital": "의료법인 정민의료재단\n 보은한양병원, 내과",
+  "period_A_1": "10ml",
+  "period_A_2": "2회",
+  "period_A_3": "7일"
+}

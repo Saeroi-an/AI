@@ -1,0 +1,19 @@
+{
+  "name": "오하은",
+  "dob": "920112-2974030",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "R50",
+  "code_B": "K29",
+  "disease_name_A": "청주의료원, 이비인후과",
+  "disease_name_B": "충북대학교병원, 이비인후과",
+  "hospital": "중앙외과의원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "5일"
+}

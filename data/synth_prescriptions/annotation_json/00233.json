@@ -1,0 +1,19 @@
+{
+  "name": "조하은",
+  "dob": "910706-2455406",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "F41",
+  "code_B": "L25",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 심장내과",
+  "disease_name_B": "충북대학교병원, 가정의학과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 정형외과",
+  "period_A_1": "10ML",
+  "period_A_2": "2회",
+  "period_A_3": "5일",
+  "period_B_1": "10ml",
+  "period_B_2": "1",
+  "period_B_3": "5"
+}

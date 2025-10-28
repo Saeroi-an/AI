@@ -1,0 +1,23 @@
+{
+  "name": "최지우",
+  "dob": "910412-2724273",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "L25",
+  "code_B": "N18",
+  "disease_name_A": "충북대학교병원, 가정의학과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "hospital": "치항고려외과의원, 외과",
+  "period_A_1": "10ML",
+  "period_A_2": "1회",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "5일",
+  "period_C_1": "2정",
+  "period_C_2": "3",
+  "period_C_3": "7"
+}

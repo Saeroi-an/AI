@@ -1,0 +1,15 @@
+{
+  "name": "陈丽",
+  "dob": "960718-8281357",
+  "date": "2025-10-27",
+  "medication_A": "리튬탄산염정 300mg",
+  "dosage": "필요 시 복용",
+  "code_A": "J02",
+  "code_B": "M51",
+  "disease_name_A": "삼성서울병원, 외과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "충북대학교병원, 응급의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "14일"
+}

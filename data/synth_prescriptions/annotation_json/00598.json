@@ -1,0 +1,23 @@
+{
+  "name": "강소현",
+  "dob": "900821-2698649",
+  "date": "2025-10-27",
+  "medication_A": "아목시실린 500mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "아목시실린 500mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "N20",
+  "code_B": "B34",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "hospital": "충북대학교병원, 응급의학과",
+  "period_A_1": "5ml",
+  "period_A_2": "3",
+  "period_A_3": "30",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "14",
+  "period_C_1": "2정",
+  "period_C_2": "3",
+  "period_C_3": "5"
+}

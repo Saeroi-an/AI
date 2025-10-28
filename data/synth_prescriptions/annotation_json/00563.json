@@ -1,0 +1,23 @@
+{
+  "name": "임민지",
+  "dob": "930821-1548754",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "N39",
+  "code_B": "G43",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 일반외과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "청주의료원, 한의원(침구과)",
+  "period_A_1": "5ml",
+  "period_A_2": "3",
+  "period_A_3": "7일",
+  "period_B_1": "10ML",
+  "period_B_2": "2",
+  "period_B_3": "14일",
+  "period_C_1": "5ml",
+  "period_C_2": "2회",
+  "period_C_3": "5일"
+}

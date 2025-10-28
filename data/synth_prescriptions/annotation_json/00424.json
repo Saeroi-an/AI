@@ -1,0 +1,23 @@
+{
+  "name": "유진아",
+  "dob": "950515-1038970",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "이부프로펜 200mg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "L27",
+  "code_B": "M51",
+  "disease_name_A": "충북대학교병원, 영상의학과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "period_A_1": "10ML",
+  "period_A_2": "2",
+  "period_A_3": "30일",
+  "period_B_1": "5ml",
+  "period_B_2": "1",
+  "period_B_3": "5일",
+  "period_C_1": "10ml",
+  "period_C_2": "1회",
+  "period_C_3": "5일"
+}

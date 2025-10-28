@@ -1,0 +1,15 @@
+{
+  "name": "임민지",
+  "dob": "931007-1836808",
+  "date": "2025-10-27",
+  "medication_A": "엽산정 1mg",
+  "dosage": "필요 시 복용",
+  "code_A": "F41",
+  "code_B": "H53",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 심장내과",
+  "disease_name_B": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 일반외과",
+  "period_A_1": "10ML",
+  "period_A_2": "3회",
+  "period_A_3": "7일"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "신하은",
+  "dob": "941202-1394120",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "필요 시 복용",
+  "code_A": "N18",
+  "code_B": "K21",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "청주의료원, 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "5"
+}

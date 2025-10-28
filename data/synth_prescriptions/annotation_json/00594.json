@@ -1,0 +1,23 @@
+{
+  "name": "한도윤",
+  "dob": "901231-1826271",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "로사르탄 50mg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "F40",
+  "code_B": "F40",
+  "disease_name_A": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "hospital": "조내과, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "5ml",
+  "period_B_2": "3",
+  "period_B_3": "7일",
+  "period_C_1": "2정",
+  "period_C_2": "2회",
+  "period_C_3": "30"
+}

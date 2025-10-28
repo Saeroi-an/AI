@@ -1,0 +1,23 @@
+{
+  "name": "임예린",
+  "dob": "931125-1523785",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "로사르탄 50mg",
+  "medication_C": "메트포르민 500mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "F40",
+  "code_B": "K52",
+  "disease_name_A": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "disease_name_B": "충북대학교병원, 내과",
+  "hospital": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "7일",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "2회",
+  "period_C_3": "30"
+}

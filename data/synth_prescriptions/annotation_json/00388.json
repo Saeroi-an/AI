@@ -1,0 +1,19 @@
+{
+  "name": "이상훈",
+  "dob": "960217-2953488",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "로사르탄 50mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "E03",
+  "code_B": "R50",
+  "disease_name_A": "의료법인 송암의료재단 마이크로병원,\n 정형외과",
+  "disease_name_B": "청주의료원, 이비인후과",
+  "hospital": "삼성서울병원, 외과",
+  "period_A_1": "2정",
+  "period_A_2": "2",
+  "period_A_3": "30",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "7"
+}

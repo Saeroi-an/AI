@@ -1,0 +1,19 @@
+{
+  "name": "최하늘",
+  "dob": "910326-1798547",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "필요 시 복용",
+  "code_A": "L25",
+  "code_B": "R07",
+  "disease_name_A": "충북대학교병원, 가정의학과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 가정의학과",
+  "hospital": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "3",
+  "period_A_3": "30",
+  "period_B_1": "5ml",
+  "period_B_2": "3",
+  "period_B_3": "7일"
+}

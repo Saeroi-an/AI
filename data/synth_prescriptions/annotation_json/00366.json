@@ -1,0 +1,19 @@
+{
+  "name": "조예린",
+  "dob": "911108-1720832",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "이부프로펜 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "F32",
+  "code_B": "N20",
+  "disease_name_A": "의료법인 정산의료재단 효성병원,\n 재활의학과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "hospital": "의료법인 정산의료재단\n 효성병원, 내과",
+  "period_A_1": "2정",
+  "period_A_2": "2회",
+  "period_A_3": "30일",
+  "period_B_1": "2정",
+  "period_B_2": "2회",
+  "period_B_3": "7일"
+}

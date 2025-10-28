@@ -1,0 +1,19 @@
+{
+  "name": "배지우",
+  "dob": "950109-2916109",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "F41",
+  "code_B": "M79",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 심장내과",
+  "disease_name_B": "청주의료원, 외과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "7",
+  "period_B_1": "10ml",
+  "period_B_2": "1회",
+  "period_B_3": "7일"
+}

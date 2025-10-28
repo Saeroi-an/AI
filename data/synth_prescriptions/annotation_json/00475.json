@@ -1,0 +1,23 @@
+{
+  "name": "임예린",
+  "dob": "930907-1536831",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "암로디핀 5mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "L23",
+  "code_B": "I10",
+  "disease_name_A": "충북대학교병원, 신경과",
+  "disease_name_B": "장사랑박종범내과, 내과",
+  "hospital": "청주의료원, 한의원(침구과)",
+  "period_A_1": "10ML",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "2정",
+  "period_B_2": "2",
+  "period_B_3": "30일",
+  "period_C_1": "10ml",
+  "period_C_2": "3회",
+  "period_C_3": "14일"
+}

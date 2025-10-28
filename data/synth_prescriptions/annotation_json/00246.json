@@ -1,0 +1,19 @@
+{
+  "name": "이하윤",
+  "dob": "971202-1792835",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "암로디핀 5mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "B34",
+  "code_B": "B34",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "hospital": "청주의료원, 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "7일"
+}

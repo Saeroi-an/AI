@@ -1,0 +1,23 @@
+{
+  "name": "유하은",
+  "dob": "961118-1218767",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "medication_C": "암로디핀 5mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "M54",
+  "code_B": "N40",
+  "disease_name_A": "청주의료원, 가정의학과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 내과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 재활의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "3",
+  "period_A_3": "30",
+  "period_B_1": "1정",
+  "period_B_2": "3회",
+  "period_B_3": "14",
+  "period_C_1": "2정",
+  "period_C_2": "1회",
+  "period_C_3": "30일"
+}

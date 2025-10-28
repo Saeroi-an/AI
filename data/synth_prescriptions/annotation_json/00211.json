@@ -1,0 +1,19 @@
+{
+  "name": "최하늘",
+  "dob": "910326-1798547",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "medication_B": "암로디핀 5mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "R07",
+  "code_B": "M16",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 가정의학과",
+  "disease_name_B": "청주의료원, 응급의학과",
+  "hospital": "의료법인 정민의료재단\n 보은한양병원, 정형외과",
+  "period_A_1": "2정",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "3회",
+  "period_B_3": "5일"
+}

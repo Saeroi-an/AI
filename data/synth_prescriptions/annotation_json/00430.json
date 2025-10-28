@@ -1,0 +1,23 @@
+{
+  "name": "김하은",
+  "dob": "960901-1524176",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "메트포르민 500mg",
+  "medication_C": "심바스타틴 20mg",
+  "dosage": "필요 시 복용",
+  "code_A": "H52",
+  "code_B": "L27",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 산부인과",
+  "disease_name_B": "충북대학교병원, 영상의학과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 산부인과",
+  "period_A_1": "10ml",
+  "period_A_2": "2회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "7일",
+  "period_C_1": "2정",
+  "period_C_2": "1",
+  "period_C_3": "5일"
+}

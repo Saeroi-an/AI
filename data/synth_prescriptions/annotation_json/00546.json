@@ -1,0 +1,23 @@
+{
+  "name": "신예린",
+  "dob": "940519-1578051",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "아목시실린 500mg",
+  "medication_C": "심바스타틴 20mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "M16",
+  "code_B": "B97",
+  "disease_name_A": "청주의료원, 응급의학과",
+  "disease_name_B": "청주의료원, 내과",
+  "hospital": "청주의료원, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "5",
+  "period_B_1": "5ml",
+  "period_B_2": "1",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "1회",
+  "period_C_3": "5"
+}

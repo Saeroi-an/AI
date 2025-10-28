@@ -1,0 +1,19 @@
+{
+  "name": "임민지",
+  "dob": "930821-1548754",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "L25",
+  "code_B": "K29",
+  "disease_name_A": "충북대학교병원, 가정의학과",
+  "disease_name_B": "충북대학교병원, 이비인후과",
+  "hospital": "의료법인 송암의료재단 마이크로병원,\n 영상의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "2",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "14"
+}

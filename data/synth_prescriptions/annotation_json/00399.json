@@ -1,0 +1,19 @@
+{
+  "name": "이유진",
+  "dob": "971005-1867987",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "J03",
+  "code_B": "R50",
+  "disease_name_A": "강남세브란스병원, 소아과",
+  "disease_name_B": "청주의료원, 이비인후과",
+  "hospital": "건국대학교 충주병원,\n 산부인과",
+  "period_A_1": "10ml",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1",
+  "period_B_3": "7일"
+}

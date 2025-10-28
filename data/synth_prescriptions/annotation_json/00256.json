@@ -1,0 +1,19 @@
+{
+  "name": "최하은",
+  "dob": "910130-2907204",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "R10",
+  "code_B": "G43",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 소아청소년과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "청주의료원, 이비인후과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "5일",
+  "period_B_1": "10ML",
+  "period_B_2": "3",
+  "period_B_3": "5일"
+}

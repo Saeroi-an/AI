@@ -1,0 +1,23 @@
+{
+  "name": "이유진",
+  "dob": "971219-1539849",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "하이드로코르티손 10mg",
+  "medication_C": "메트포르민 500mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "N20",
+  "code_B": "B95",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 응급의학과",
+  "period_A_1": "2정",
+  "period_A_2": "3",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "30일",
+  "period_C_1": "5ml",
+  "period_C_2": "3회",
+  "period_C_3": "7"
+}

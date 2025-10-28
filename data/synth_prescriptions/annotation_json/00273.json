@@ -1,0 +1,19 @@
+{
+  "name": "한지민",
+  "dob": "891120-2691458",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "로사르탄 50mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "F33",
+  "code_B": "M25",
+  "disease_name_A": "의료법인 정산의료재단 효성병원,\n 정형외과",
+  "disease_name_B": "청주의료원, 한의원(침구과)",
+  "hospital": "우리들외과의원, 외과",
+  "period_A_1": "10ml",
+  "period_A_2": "3",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "14"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "최하은",
+  "dob": "910130-2935296",
+  "date": "2025-10-27",
+  "medication_A": "아목시실린 500mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "E11",
+  "code_B": "A09",
+  "disease_name_A": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 이비인후과",
+  "hospital": "중앙외과의원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "14"
+}

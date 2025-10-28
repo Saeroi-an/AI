@@ -1,0 +1,19 @@
+{
+  "name": "이상훈",
+  "dob": "960217-2953488",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "M16",
+  "code_B": "H53",
+  "disease_name_A": "청주의료원, 응급의학과",
+  "disease_name_B": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "7"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "吴丽 Wu Li",
+  "dob": "990312-7172964",
+  "date": "2025-10-27",
+  "medication_A": "도네페질정 5mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "N18",
+  "code_B": "F40",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "5일"
+}

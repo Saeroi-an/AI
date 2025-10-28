@@ -1,0 +1,15 @@
+{
+  "name": "한지우",
+  "dob": "890926-2621805",
+  "date": "2025-10-27",
+  "medication_A": "이미다프릴정 5mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "N20",
+  "code_B": "N30",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 한방과",
+  "hospital": "충북대학교병원, 안과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "14"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "한지우",
+  "dob": "890717-2635851",
+  "date": "2025-10-27",
+  "medication_A": "비타민B콤플렉스정",
+  "dosage": "하루 2회, 식전",
+  "code_A": "K57",
+  "code_B": "G43",
+  "disease_name_A": "충북대학교병원, 안과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "period_A_1": "5ml",
+  "period_A_2": "2",
+  "period_A_3": "7일"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "임예린",
+  "dob": "931125-1523785",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "B97",
+  "code_B": "I10",
+  "disease_name_A": "청주의료원, 내과",
+  "disease_name_B": "장사랑박종범내과, 내과",
+  "hospital": "우리들외과의원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "5일"
+}

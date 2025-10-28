@@ -1,0 +1,23 @@
+{
+  "name": "조하은",
+  "dob": "910520-2469452",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "암로디핀 5mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "H54",
+  "code_B": "G43",
+  "disease_name_A": "의료법인한마음의료재단\n하나병원, 신경내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "주덕성모외과, 외과",
+  "period_A_1": "5ml",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "5ml",
+  "period_B_2": "2",
+  "period_B_3": "14",
+  "period_C_1": "5ml",
+  "period_C_2": "3",
+  "period_C_3": "7일"
+}

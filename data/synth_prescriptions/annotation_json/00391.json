@@ -1,0 +1,19 @@
+{
+  "name": "김하은",
+  "dob": "961230-1801184",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "G43",
+  "code_B": "F43",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 외과",
+  "hospital": "건국대학교 충주병원,\n 내과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "5일"
+}

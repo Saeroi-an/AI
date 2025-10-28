@@ -1,0 +1,15 @@
+{
+  "name": "한도윤",
+  "dob": "901231-1826271",
+  "date": "2025-10-27",
+  "medication_A": "페니라민시럽 1mg/1mL",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "H10",
+  "code_B": "R50",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 외과",
+  "disease_name_B": "청주의료원, 이비인후과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 정형외과",
+  "period_A_1": "10ML",
+  "period_A_2": "1",
+  "period_A_3": "7"
+}

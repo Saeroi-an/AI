@@ -1,0 +1,23 @@
+{
+  "name": "박지윤",
+  "dob": "901222-2372195",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "메트포르민 500mg",
+  "medication_C": "오메프라졸 20mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "M79",
+  "code_B": "H52",
+  "disease_name_A": "청주의료원, 외과",
+  "disease_name_B": "의료법인한마음의\n료재단하나병원, 산부인과",
+  "hospital": "청주의료원, 내과",
+  "period_A_1": "5ml",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "10ml",
+  "period_B_2": "3회",
+  "period_B_3": "14일",
+  "period_C_1": "1정",
+  "period_C_2": "1",
+  "period_C_3": "5"
+}

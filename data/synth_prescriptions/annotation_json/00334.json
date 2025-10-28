@@ -1,0 +1,19 @@
+{
+  "name": "정민서",
+  "dob": "941130-1577583",
+  "date": "2025-10-27",
+  "medication_A": "아목시실린 500mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "E11",
+  "code_B": "K57",
+  "disease_name_A": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "disease_name_B": "충북대학교병원, 안과",
+  "hospital": "부산대학교병원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "5",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "7일"
+}

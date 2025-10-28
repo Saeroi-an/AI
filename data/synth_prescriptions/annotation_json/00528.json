@@ -1,0 +1,23 @@
+{
+  "name": "강소현",
+  "dob": "900903-2712695",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "K29",
+  "code_B": "M79",
+  "disease_name_A": "충북대학교병원, 이비인후과",
+  "disease_name_B": "청주의료원, 외과",
+  "hospital": "청주의료원, 이비인후과",
+  "period_A_1": "10ml",
+  "period_A_2": "3",
+  "period_A_3": "7",
+  "period_B_1": "5ml",
+  "period_B_2": "1회",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "2회",
+  "period_C_3": "30"
+}

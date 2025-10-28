@@ -1,0 +1,23 @@
+{
+  "name": "최지우",
+  "dob": "910412-2724273",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "아목시실린 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "K52",
+  "code_B": "I10",
+  "disease_name_A": "충북대학교병원, 내과",
+  "disease_name_B": "장사랑박종범내과, 내과",
+  "hospital": "청주의료원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "7일",
+  "period_C_1": "10ml",
+  "period_C_2": "1회",
+  "period_C_3": "7일"
+}

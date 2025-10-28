@@ -1,0 +1,19 @@
+{
+  "name": "유지우",
+  "dob": "960904-1821294",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "M16",
+  "code_B": "K21",
+  "disease_name_A": "청주의료원, 응급의학과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "건국대학교 충주병원,\n 외과",
+  "period_A_1": "5ml",
+  "period_A_2": "1",
+  "period_A_3": "30일",
+  "period_B_1": "5ml",
+  "period_B_2": "2",
+  "period_B_3": "30"
+}

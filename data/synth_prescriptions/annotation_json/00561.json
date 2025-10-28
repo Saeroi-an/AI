@@ -1,0 +1,23 @@
+{
+  "name": "임예린",
+  "dob": "930129-2534082",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "이부프로펜 200mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J03",
+  "code_B": "K52",
+  "disease_name_A": "강남세브란스병원, 소아과",
+  "disease_name_B": "충북대학교병원, 내과",
+  "hospital": "부산대학교병원, 외과",
+  "period_A_1": "5ml",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "5ml",
+  "period_B_2": "3",
+  "period_B_3": "5일",
+  "period_C_1": "2정",
+  "period_C_2": "1회",
+  "period_C_3": "14"
+}

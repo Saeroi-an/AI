@@ -1,0 +1,19 @@
+{
+  "name": "이상훈",
+  "dob": "960217-2953488",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "L20",
+  "code_B": "H10",
+  "disease_name_A": "충북대학교병원, 신경외과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 외과",
+  "hospital": "세명대학교 충주한방병원,\n 한방재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "7일"
+}

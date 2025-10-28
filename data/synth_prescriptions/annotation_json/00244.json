@@ -1,0 +1,19 @@
+{
+  "name": "조하은",
+  "dob": "910315-2441360",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "L25",
+  "code_B": "B34",
+  "disease_name_A": "충북대학교병원, 가정의학과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "hospital": "의료법인 송암의료재단 마이크로병원,\n 정형외과",
+  "period_A_1": "10ML",
+  "period_A_2": "3",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "3회",
+  "period_B_3": "5일"
+}

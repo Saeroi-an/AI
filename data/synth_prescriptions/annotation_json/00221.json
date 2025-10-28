@@ -1,0 +1,19 @@
+{
+  "name": "김하늘",
+  "dob": "950104-1847220",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "암로디핀 5mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "B95",
+  "code_B": "R11",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "14"
+}

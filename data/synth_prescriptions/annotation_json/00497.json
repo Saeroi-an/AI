@@ -1,0 +1,23 @@
+{
+  "name": "배지은",
+  "dob": "960313-1906629",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "메트포르민 500mg",
+  "medication_C": "암로디핀 5mg",
+  "dosage": "필요 시 복용",
+  "code_A": "B34",
+  "code_B": "F32",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원,\n 재활의학과",
+  "hospital": "강남세브란스병원, 소아과",
+  "period_A_1": "5ml",
+  "period_A_2": "1",
+  "period_A_3": "7일",
+  "period_B_1": "2정",
+  "period_B_2": "3",
+  "period_B_3": "30",
+  "period_C_1": "2정",
+  "period_C_2": "1회",
+  "period_C_3": "14일"
+}

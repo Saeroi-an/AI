@@ -1,0 +1,23 @@
+{
+  "name": "배하윤",
+  "dob": "950314-2891140",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "아목시실린 500mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "N20",
+  "code_B": "G43",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "의료법인 정산의료재단 효성병원,\n 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "14",
+  "period_B_1": "10ml",
+  "period_B_2": "1",
+  "period_B_3": "14",
+  "period_C_1": "10ML",
+  "period_C_2": "2",
+  "period_C_3": "5일"
+}

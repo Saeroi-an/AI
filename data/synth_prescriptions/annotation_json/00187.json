@@ -1,0 +1,15 @@
+{
+  "name": "강소현",
+  "dob": "900816-2726741",
+  "date": "2025-10-27",
+  "medication_A": "오메가3캡슐",
+  "dosage": "필요 시 복용",
+  "code_A": "J06",
+  "code_B": "K57",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "충북대학교병원, 안과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 내과",
+  "period_A_1": "5ml",
+  "period_A_2": "1회",
+  "period_A_3": "7일"
+}

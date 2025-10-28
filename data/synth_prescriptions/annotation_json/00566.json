@@ -1,0 +1,23 @@
+{
+  "name": "배하은",
+  "dob": "950816-1369947",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J03",
+  "code_B": "R50",
+  "disease_name_A": "강남세브란스병원, 소아과",
+  "disease_name_B": "청주의료원, 이비인후과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 내과",
+  "period_A_1": "2정",
+  "period_A_2": "1",
+  "period_A_3": "7일",
+  "period_B_1": "10ML",
+  "period_B_2": "1",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "1회",
+  "period_C_3": "7"
+}

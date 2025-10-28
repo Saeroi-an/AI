@@ -1,0 +1,15 @@
+{
+  "name": "최지우",
+  "dob": "910523-2710227",
+  "date": "2025-10-27",
+  "medication_A": "비타민B콤플렉스정",
+  "dosage": "필요 시 복용",
+  "code_A": "R50",
+  "code_B": "F41",
+  "disease_name_A": "청주의료원, 이비인후과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 심장내과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 일반외과",
+  "period_A_1": "10ML",
+  "period_A_2": "3회",
+  "period_A_3": "14일"
+}

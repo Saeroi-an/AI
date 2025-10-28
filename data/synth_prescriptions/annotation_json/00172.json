@@ -1,0 +1,15 @@
+{
+  "name": "조하은",
+  "dob": "910520-2469452",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "J06",
+  "code_B": "F40",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "hospital": "건국대학교 충주병원,\n 이비인후과",
+  "period_A_1": "10ML",
+  "period_A_2": "2회",
+  "period_A_3": "5일"
+}

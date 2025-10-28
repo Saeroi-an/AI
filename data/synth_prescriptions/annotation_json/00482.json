@@ -1,0 +1,23 @@
+{
+  "name": "신하은",
+  "dob": "941111-1752982",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "심바스타틴 20mg",
+  "dosage": "필요 시 복용",
+  "code_A": "N30",
+  "code_B": "B97",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 한방과",
+  "disease_name_B": "청주의료원, 내과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 산부인과",
+  "period_A_1": "5ml",
+  "period_A_2": "2회",
+  "period_A_3": "7일",
+  "period_B_1": "2정",
+  "period_B_2": "2",
+  "period_B_3": "7",
+  "period_C_1": "1정",
+  "period_C_2": "2회",
+  "period_C_3": "5일"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "吴丽 Wu Li",
+  "dob": "990312-7172964",
+  "date": "2025-10-27",
+  "medication_A": "텔미사르탄정 40mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "F32",
+  "code_B": "J01",
+  "disease_name_A": "의료법인 정산의료재단 효성병원,\n 재활의학과",
+  "disease_name_B": "서울아산병원, 내과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 산부인과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "14일"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "강소현",
+  "dob": "900816-2726741",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "아목시실린 500mg",
+  "medication_C": "암로디핀 5mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "F40",
+  "code_B": "J04",
+  "disease_name_A": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "disease_name_B": "서울성모병원, 내과",
+  "hospital": "건국대학교 충주병원,\n 신경과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "2정",
+  "period_B_2": "1회",
+  "period_B_3": "5",
+  "period_C_1": "10ML",
+  "period_C_2": "1회",
+  "period_C_3": "14일"
+}

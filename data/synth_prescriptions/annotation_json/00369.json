@@ -1,0 +1,19 @@
+{
+  "name": "박지우",
+  "dob": "900502-2692585",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "필요 시 복용",
+  "code_A": "B95",
+  "code_B": "E66",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "의료법인 송암의료재단 마이크로병원,\n 내과",
+  "hospital": "의료법인한마음의료\n재단하나병원, 외과",
+  "period_A_1": "2정",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "10ML",
+  "period_B_2": "3회",
+  "period_B_3": "5일"
+}

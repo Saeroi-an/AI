@@ -1,0 +1,23 @@
+{
+  "name": "김하은",
+  "dob": "960901-1524176",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "오메프라졸 20mg",
+  "medication_C": "레보티록신 50mcg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "H53",
+  "code_B": "H11",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "disease_name_B": "의료법인한마음의료재단\n하나병원, 내과",
+  "hospital": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "30",
+  "period_C_1": "1정",
+  "period_C_2": "3회",
+  "period_C_3": "5일"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "이유진",
+  "dob": "970709-2651128",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "로사르탄 50mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "N40",
+  "code_B": "H11",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 내과",
+  "disease_name_B": "의료법인한마음의료재단\n하나병원, 내과",
+  "hospital": "건국대학교 충주병원,\n 이비인후과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "7일",
+  "period_B_1": "2정",
+  "period_B_2": "1",
+  "period_B_3": "7일",
+  "period_C_1": "10ml",
+  "period_C_2": "3",
+  "period_C_3": "5일"
+}

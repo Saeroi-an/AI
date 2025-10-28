@@ -1,0 +1,19 @@
+{
+  "name": "한소현",
+  "dob": "890809-2434828",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "N20",
+  "code_B": "N18",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "hospital": "치항고려외과의원, 외과",
+  "period_A_1": "10ml",
+  "period_A_2": "1회",
+  "period_A_3": "5",
+  "period_B_1": "10ml",
+  "period_B_2": "2",
+  "period_B_3": "5일"
+}

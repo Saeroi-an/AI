@@ -1,0 +1,19 @@
+{
+  "name": "조하은",
+  "dob": "910706-2455406",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "심바스타틴 20mg",
+  "dosage": "필요 시 복용",
+  "code_A": "H53",
+  "code_B": "M51",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 신경외과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "14",
+  "period_B_1": "10ML",
+  "period_B_2": "3회",
+  "period_B_3": "30일"
+}

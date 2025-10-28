@@ -1,0 +1,23 @@
+{
+  "name": "배하은",
+  "dob": "950816-1369947",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "타이레놀 500mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "M16",
+  "code_B": "J03",
+  "disease_name_A": "청주의료원, 응급의학과",
+  "disease_name_B": "강남세브란스병원, 소아과",
+  "hospital": "건국대학교 충주병원,\n 내과",
+  "period_A_1": "10ml",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "14",
+  "period_C_1": "2정",
+  "period_C_2": "1회",
+  "period_C_3": "14"
+}

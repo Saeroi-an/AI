@@ -1,0 +1,19 @@
+{
+  "name": "임예린",
+  "dob": "930129-2534082",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "이부프로펜 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "H52",
+  "code_B": "F32",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 산부인과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원,\n 재활의학과",
+  "hospital": "충북대학교병원, 응급의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "2회",
+  "period_A_3": "5",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "7"
+}

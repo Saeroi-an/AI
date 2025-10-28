@@ -1,0 +1,23 @@
+{
+  "name": "배지우",
+  "dob": "950109-2916109",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "이부프로펜 200mg",
+  "medication_C": "암로디핀 5mg",
+  "dosage": "필요 시 복용",
+  "code_A": "H53",
+  "code_B": "M79",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "disease_name_B": "청주의료원, 외과",
+  "hospital": "건국대학교 충주병원,\n 외과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "14일",
+  "period_B_1": "10ml",
+  "period_B_2": "3회",
+  "period_B_3": "7일",
+  "period_C_1": "1정",
+  "period_C_2": "3",
+  "period_C_3": "5일"
+}

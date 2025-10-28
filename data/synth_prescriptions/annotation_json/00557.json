@@ -1,0 +1,23 @@
+{
+  "name": "서민서",
+  "dob": "921001-1768496",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "L27",
+  "code_B": "K29",
+  "disease_name_A": "충북대학교병원, 영상의학과",
+  "disease_name_B": "충북대학교병원, 이비인후과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 응급의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "14",
+  "period_B_1": "5ml",
+  "period_B_2": "3회",
+  "period_B_3": "30일",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "30"
+}

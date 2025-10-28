@@ -1,0 +1,23 @@
+{
+  "name": "배지우",
+  "dob": "950109-2916109",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "아목시실린 500mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "필요 시 복용",
+  "code_A": "L27",
+  "code_B": "R10",
+  "disease_name_A": "충북대학교병원, 영상의학과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 소아청소년과",
+  "hospital": "청주의료원, 재활의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "30일",
+  "period_C_1": "1정",
+  "period_C_2": "2회",
+  "period_C_3": "7"
+}

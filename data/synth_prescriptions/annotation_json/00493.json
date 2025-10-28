@@ -1,0 +1,23 @@
+{
+  "name": "강지우",
+  "dob": "900709-2885626",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "레보티록신 50mcg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "K29",
+  "code_B": "N20",
+  "disease_name_A": "충북대학교병원, 이비인후과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "hospital": "건국대학교 충주병원,\n 안과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "14",
+  "period_B_1": "10ML",
+  "period_B_2": "3회",
+  "period_B_3": "30일",
+  "period_C_1": "2정",
+  "period_C_2": "1",
+  "period_C_3": "7"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "한지우",
+  "dob": "890717-2607759",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "메트포르민 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "N40",
+  "code_B": "R11",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "hospital": "의료법인 정민의료재단\n 보은한양병원, 정형외과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "10ml",
+  "period_B_2": "2회",
+  "period_B_3": "5일"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "배지우",
+  "dob": "950109-2916109",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "오메프라졸 20mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "M51",
+  "code_B": "N30",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 한방과",
+  "hospital": "세명대학교 충주한방병원,\n 여성소아청소년과",
+  "period_A_1": "10ML",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "10ml",
+  "period_B_2": "2회",
+  "period_B_3": "7"
+}

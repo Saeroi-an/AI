@@ -1,0 +1,23 @@
+{
+  "name": "정민서",
+  "dob": "940908-1788606",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "아스피린 100mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "F43",
+  "code_B": "G43",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 외과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "중앙외과의원, 외과",
+  "period_A_1": "10ML",
+  "period_A_2": "3",
+  "period_A_3": "30",
+  "period_B_1": "10ml",
+  "period_B_2": "1",
+  "period_B_3": "7",
+  "period_C_1": "1정",
+  "period_C_2": "1회",
+  "period_C_3": "5일"
+}

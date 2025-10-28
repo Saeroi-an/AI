@@ -1,0 +1,19 @@
+{
+  "name": "박하늘",
+  "dob": "900115-2413679",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "아목시실린 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "J06",
+  "code_B": "F40",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "hospital": "건국대학교 충주병원,\n 신경과",
+  "period_A_1": "5ml",
+  "period_A_2": "1",
+  "period_A_3": "5",
+  "period_B_1": "10ml",
+  "period_B_2": "1회",
+  "period_B_3": "5"
+}

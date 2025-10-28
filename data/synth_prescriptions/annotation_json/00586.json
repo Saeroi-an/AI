@@ -1,0 +1,23 @@
+{
+  "name": "강지우",
+  "dob": "900615-2618764",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "이부프로펜 200mg",
+  "medication_C": "로사르탄 50mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "B34",
+  "code_B": "M51",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 심장내과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "7일",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "30"
+}

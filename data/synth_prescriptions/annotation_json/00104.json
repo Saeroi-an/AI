@@ -1,0 +1,15 @@
+{
+  "name": "오하은",
+  "dob": "920610-2940892",
+  "date": "2025-10-27",
+  "medication_A": "비소프로롤 5mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J06",
+  "code_B": "J04",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "서울성모병원, 내과",
+  "hospital": "서울아산병원, 내과",
+  "period_A_1": "2정",
+  "period_A_2": "3회",
+  "period_A_3": "5일"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "김소현",
+  "dob": "960608-1057824",
+  "date": "2025-10-27",
+  "medication_A": "페니라민시럽 1mg/1mL",
+  "dosage": "하루 2회, 식전",
+  "code_A": "E03",
+  "code_B": "J04",
+  "disease_name_A": "의료법인 송암의료재단 마이크로병원,\n 정형외과",
+  "disease_name_B": "서울성모병원, 내과",
+  "hospital": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "period_A_1": "2정",
+  "period_A_2": "2회",
+  "period_A_3": "5일"
+}

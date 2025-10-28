@@ -1,0 +1,19 @@
+{
+  "name": "한소현",
+  "dob": "890630-2448874",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "아목시실린 500mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "R07",
+  "code_B": "B34",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 가정의학과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 응급의학과",
+  "hospital": "우리들외과의원, 외과",
+  "period_A_1": "10ML",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "2정",
+  "period_B_2": "2",
+  "period_B_3": "7일"
+}

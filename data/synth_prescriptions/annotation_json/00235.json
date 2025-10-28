@@ -1,0 +1,19 @@
+{
+  "name": "신예린",
+  "dob": "941114-1805943",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "medication_B": "암로디핀 5mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "M51",
+  "code_B": "K21",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "청주의료원, 가정의학과",
+  "period_A_1": "10ML",
+  "period_A_2": "3",
+  "period_A_3": "5일",
+  "period_B_1": "10ML",
+  "period_B_2": "3회",
+  "period_B_3": "7일"
+}

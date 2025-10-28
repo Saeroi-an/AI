@@ -1,0 +1,23 @@
+{
+  "name": "한소현",
+  "dob": "890630-2420782",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "오메프라졸 20mg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "F40",
+  "code_B": "F40",
+  "disease_name_A": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "disease_name_B": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 내과",
+  "period_A_1": "10ML",
+  "period_A_2": "2",
+  "period_A_3": "30일",
+  "period_B_1": "10ml",
+  "period_B_2": "2",
+  "period_B_3": "30일",
+  "period_C_1": "10ml",
+  "period_C_2": "1",
+  "period_C_3": "5일"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "김하은",
+  "dob": "960901-1524176",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "암로디핀 5mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "H10",
+  "code_B": "J03",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 외과",
+  "disease_name_B": "강남세브란스병원, 소아과",
+  "hospital": "건국대학교 충주병원,\n가정의학과",
+  "period_A_1": "10ML",
+  "period_A_2": "2",
+  "period_A_3": "7일",
+  "period_B_1": "2정",
+  "period_B_2": "3",
+  "period_B_3": "7일",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "7일"
+}

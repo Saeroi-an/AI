@@ -1,0 +1,19 @@
+{
+  "name": "배지우",
+  "dob": "950109-2916109",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "K30",
+  "code_B": "M51",
+  "disease_name_A": "충북대학교병원, 산부인과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "재단법인베스티안재단베스티안병원,\n 내과",
+  "period_A_1": "2정",
+  "period_A_2": "2",
+  "period_A_3": "7",
+  "period_B_1": "10ML",
+  "period_B_2": "1",
+  "period_B_3": "5"
+}

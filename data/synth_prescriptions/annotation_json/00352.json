@@ -1,0 +1,19 @@
+{
+  "name": "신예은",
+  "dob": "910909-2932568",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "아목시실린 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "M51",
+  "code_B": "N18",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 일반외과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "5일"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "신예린",
+  "dob": "940403-1592097",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "L23",
+  "code_B": "L29",
+  "disease_name_A": "충북대학교병원, 신경과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 심장내과",
+  "period_A_1": "2정",
+  "period_A_2": "3",
+  "period_A_3": "30",
+  "period_B_1": "2정",
+  "period_B_2": "2회",
+  "period_B_3": "7"
+}

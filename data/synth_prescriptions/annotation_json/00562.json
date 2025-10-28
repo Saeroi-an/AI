@@ -1,0 +1,23 @@
+{
+  "name": "배지은",
+  "dob": "960313-1906629",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "아목시실린 500mg",
+  "medication_C": "레보티록신 50mcg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "M25",
+  "code_B": "J03",
+  "disease_name_A": "청주의료원, 한의원(침구과)",
+  "disease_name_B": "강남세브란스병원, 소아과",
+  "hospital": "건국대학교 충주병원,\n가정의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "5일",
+  "period_C_1": "10ML",
+  "period_C_2": "3",
+  "period_C_3": "5"
+}

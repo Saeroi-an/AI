@@ -1,0 +1,23 @@
+{
+  "name": "조민지",
+  "dob": "910218-2630337",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "타이레놀 500mg",
+  "medication_C": "레보티록신 50mcg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J03",
+  "code_B": "J02",
+  "disease_name_A": "강남세브란스병원, 소아과",
+  "disease_name_B": "삼성서울병원, 외과",
+  "hospital": "장사랑박종범내과, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "7일",
+  "period_B_1": "5ml",
+  "period_B_2": "2",
+  "period_B_3": "7일",
+  "period_C_1": "10ML",
+  "period_C_2": "1",
+  "period_C_3": "30일"
+}

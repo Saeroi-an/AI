@@ -1,0 +1,19 @@
+{
+  "name": "유하윤",
+  "dob": "960421-1518271",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "로사르탄 50mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J01",
+  "code_B": "R10",
+  "disease_name_A": "서울아산병원, 내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 소아청소년과",
+  "hospital": "강남세브란스병원, 소아과",
+  "period_A_1": "5ml",
+  "period_A_2": "1",
+  "period_A_3": "14",
+  "period_B_1": "2정",
+  "period_B_2": "2회",
+  "period_B_3": "5"
+}

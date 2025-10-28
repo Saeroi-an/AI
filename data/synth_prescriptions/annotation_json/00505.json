@@ -1,0 +1,23 @@
+{
+  "name": "한지우",
+  "dob": "890717-2635851",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "N40",
+  "code_B": "E03",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 내과",
+  "disease_name_B": "의료법인 송암의료재단 마이크로병원,\n 정형외과",
+  "hospital": "의료법인 정산의료재단\n 효성병원, 가정의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "30",
+  "period_C_1": "5ml",
+  "period_C_2": "2",
+  "period_C_3": "5일"
+}

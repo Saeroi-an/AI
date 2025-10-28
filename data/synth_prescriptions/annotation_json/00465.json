@@ -1,0 +1,23 @@
+{
+  "name": "배지우",
+  "dob": "950130-2690117",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "K30",
+  "code_B": "L29",
+  "disease_name_A": "충북대학교병원, 산부인과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "충북대학교병원, 신경외과",
+  "period_A_1": "10ML",
+  "period_A_2": "1회",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "1회",
+  "period_C_3": "14"
+}

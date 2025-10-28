@@ -1,0 +1,23 @@
+{
+  "name": "강소현",
+  "dob": "900816-2726741",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "이부프로펜 200mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "B95",
+  "code_B": "E11",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "hospital": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5",
+  "period_B_1": "10ml",
+  "period_B_2": "3",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "1회",
+  "period_C_3": "5일"
+}

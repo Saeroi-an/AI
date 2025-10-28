@@ -1,0 +1,19 @@
+{
+  "name": "최하은",
+  "dob": "910221-2923250",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J03",
+  "code_B": "B95",
+  "disease_name_A": "강남세브란스병원, 소아과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "건국대학교 충주병원,\n 이비인후과",
+  "period_A_1": "5ml",
+  "period_A_2": "2",
+  "period_A_3": "30일",
+  "period_B_1": "10ml",
+  "period_B_2": "2",
+  "period_B_3": "7일"
+}

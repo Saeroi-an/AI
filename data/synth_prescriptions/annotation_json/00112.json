@@ -1,0 +1,15 @@
+{
+  "name": "정민서",
+  "dob": "941130-1577583",
+  "date": "2025-10-27",
+  "medication_A": "세레타이드 흡입제 250/50mcg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "M25",
+  "code_B": "L25",
+  "disease_name_A": "청주의료원, 한의원(침구과)",
+  "disease_name_B": "충북대학교병원, 가정의학과",
+  "hospital": "건국대학교 충주병원,\n 외과",
+  "period_A_1": "5ml",
+  "period_A_2": "1",
+  "period_A_3": "14"
+}

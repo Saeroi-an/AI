@@ -1,0 +1,19 @@
+{
+  "name": "배수진",
+  "dob": "920630-1091379",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "이부프로펜 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "H10",
+  "code_B": "F41",
+  "disease_name_A": "의료법인한마음의료\n재단하나병원, 외과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 심장내과",
+  "hospital": "충북대학교병원, 영상의학과",
+  "period_A_1": "5ml",
+  "period_A_2": "2",
+  "period_A_3": "7일",
+  "period_B_1": "10ML",
+  "period_B_2": "3",
+  "period_B_3": "5"
+}

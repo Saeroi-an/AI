@@ -1,0 +1,19 @@
+{
+  "name": "임예린",
+  "dob": "930819-1509739",
+  "date": "2025-10-27",
+  "medication_A": "오메프라졸 20mg",
+  "medication_B": "오메프라졸 20mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "N39",
+  "code_B": "H10",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 일반외과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 외과",
+  "hospital": "건국대학교 충주병원,\n가정의학과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "5일"
+}

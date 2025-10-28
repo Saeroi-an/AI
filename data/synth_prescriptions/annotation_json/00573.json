@@ -1,0 +1,23 @@
+{
+  "name": "최하은",
+  "dob": "910221-2923250",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "시메티딘 200mg",
+  "medication_C": "오메프라졸 20mg",
+  "dosage": "필요 시 복용",
+  "code_A": "J01",
+  "code_B": "L29",
+  "disease_name_A": "서울아산병원, 내과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "건국대학교 충주병원,\n 외과",
+  "period_A_1": "10ml",
+  "period_A_2": "3회",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "7일",
+  "period_C_1": "1정",
+  "period_C_2": "3",
+  "period_C_3": "7일"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "이서윤",
+  "dob": "881122-2318444",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "H54",
+  "code_B": "E05",
+  "disease_name_A": "의료법인한마음의료재단\n하나병원, 신경내과",
+  "disease_name_B": "의료법인 송암의료재단 마이크로병원,\n 영상의학과",
+  "hospital": "충북대학교병원, 안과",
+  "period_A_1": "10ml",
+  "period_A_2": "1회",
+  "period_A_3": "30",
+  "period_B_1": "1정",
+  "period_B_2": "1",
+  "period_B_3": "5"
+}

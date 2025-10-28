@@ -1,0 +1,23 @@
+{
+  "name": "박지윤",
+  "dob": "901222-2372195",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "로사르탄 50mg",
+  "medication_C": "아목시실린 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "H54",
+  "code_B": "R10",
+  "disease_name_A": "의료법인한마음의료재단\n하나병원, 신경내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 소아청소년과",
+  "hospital": "충북대학교병원, 영상의학과",
+  "period_A_1": "5ml",
+  "period_A_2": "2",
+  "period_A_3": "14",
+  "period_B_1": "2정",
+  "period_B_2": "2",
+  "period_B_3": "5일",
+  "period_C_1": "10ML",
+  "period_C_2": "1회",
+  "period_C_3": "7"
+}

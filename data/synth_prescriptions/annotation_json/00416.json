@@ -1,0 +1,23 @@
+{
+  "name": "정민서",
+  "dob": "940722-1509698",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "타이레놀 500mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "G43",
+  "code_B": "L23",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "disease_name_B": "충북대학교병원, 신경과",
+  "hospital": "청주의료원, 이비인후과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "14",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "7일",
+  "period_C_1": "5ml",
+  "period_C_2": "2",
+  "period_C_3": "5일"
+}

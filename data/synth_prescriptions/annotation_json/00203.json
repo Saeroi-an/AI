@@ -1,0 +1,19 @@
+{
+  "name": "유지우",
+  "dob": "960827-1835340",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "레보티록신 50mcg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "J06",
+  "code_B": "L29",
+  "disease_name_A": "부산대학교병원, 외과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "14일"
+}

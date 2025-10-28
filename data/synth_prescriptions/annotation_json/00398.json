@@ -1,0 +1,19 @@
+{
+  "name": "정민서",
+  "dob": "940817-1802652",
+  "date": "2025-10-27",
+  "medication_A": "아스피린 100mg",
+  "medication_B": "이부프로펜 200mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "J04",
+  "code_B": "H11",
+  "disease_name_A": "서울성모병원, 내과",
+  "disease_name_B": "의료법인한마음의료재단\n하나병원, 내과",
+  "hospital": "세명대학교 충주한방병원,\n 침구의학과",
+  "period_A_1": "5ml",
+  "period_A_2": "1회",
+  "period_A_3": "7일",
+  "period_B_1": "10ML",
+  "period_B_2": "3회",
+  "period_B_3": "5일"
+}

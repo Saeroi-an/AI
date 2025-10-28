@@ -1,0 +1,19 @@
+{
+  "name": "배지우",
+  "dob": "950224-2704163",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "이부프로펜 200mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "E11",
+  "code_B": "E11",
+  "disease_name_A": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "disease_name_B": "의료법인송암의료재단마이크로재활병원,\n 재활의학과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 신경외과",
+  "period_A_1": "10ML",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "2정",
+  "period_B_2": "3회",
+  "period_B_3": "14"
+}

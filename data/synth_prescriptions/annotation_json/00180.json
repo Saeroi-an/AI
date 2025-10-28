@@ -1,0 +1,15 @@
+{
+  "name": "오지훈",
+  "dob": "920927-1543653",
+  "date": "2025-10-27",
+  "medication_A": "세프트리악손주 1g",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "I10",
+  "code_B": "J02",
+  "disease_name_A": "장사랑박종범내과, 내과",
+  "disease_name_B": "삼성서울병원, 외과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 정형외과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "5"
+}

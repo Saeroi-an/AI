@@ -1,0 +1,19 @@
+{
+  "name": "오하은",
+  "dob": "920217-2954938",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "심바스타틴 20mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "K57",
+  "code_B": "J02",
+  "disease_name_A": "충북대학교병원, 안과",
+  "disease_name_B": "삼성서울병원, 외과",
+  "hospital": "의료법인한마음의료\n재단하나병원, 외과",
+  "period_A_1": "2정",
+  "period_A_2": "3",
+  "period_A_3": "5",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "30"
+}

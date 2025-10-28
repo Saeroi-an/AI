@@ -1,0 +1,19 @@
+{
+  "name": "이하윤",
+  "dob": "970914-1818826",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "B95",
+  "code_B": "E66",
+  "disease_name_A": "청주의료원, 재활의학과",
+  "disease_name_B": "의료법인 송암의료재단 마이크로병원,\n 내과",
+  "hospital": "서울아산병원, 내과",
+  "period_A_1": "2정",
+  "period_A_2": "1",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "30"
+}

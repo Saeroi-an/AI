@@ -1,0 +1,19 @@
+{
+  "name": "이유진",
+  "dob": "971219-1567941",
+  "date": "2025-10-27",
+  "medication_A": "암로디핀 5mg",
+  "medication_B": "아스피린 100mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "F43",
+  "code_B": "G43",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 외과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "hospital": "건국대학교 충주병원,\n 외과",
+  "period_A_1": "2정",
+  "period_A_2": "2",
+  "period_A_3": "30",
+  "period_B_1": "2정",
+  "period_B_2": "1",
+  "period_B_3": "30"
+}

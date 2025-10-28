@@ -1,0 +1,19 @@
+{
+  "name": "최지우",
+  "dob": "910919-2568190",
+  "date": "2025-10-27",
+  "medication_A": "심바스타틴 20mg",
+  "medication_B": "오메프라졸 20mg",
+  "dosage": "필요 시 복용",
+  "code_A": "N40",
+  "code_B": "H11",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 내과",
+  "disease_name_B": "의료법인한마음의료재단\n하나병원, 내과",
+  "hospital": "우리들외과의원, 외과",
+  "period_A_1": "2정",
+  "period_A_2": "3",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1",
+  "period_B_3": "14"
+}

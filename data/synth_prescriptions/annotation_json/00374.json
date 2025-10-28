@@ -1,0 +1,19 @@
+{
+  "name": "이하윤",
+  "dob": "971118-1832872",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "H52",
+  "code_B": "M51",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 산부인과",
+  "disease_name_B": "청주의료원, 재활의학과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 심장내과",
+  "period_A_1": "10ML",
+  "period_A_2": "1",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "5일"
+}

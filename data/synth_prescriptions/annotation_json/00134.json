@@ -1,0 +1,15 @@
+{
+  "name": "오하은",
+  "dob": "920112-2974030",
+  "date": "2025-10-27",
+  "medication_A": "페니라민시럽 1mg/1mL",
+  "dosage": "필요 시 복용",
+  "code_A": "B97",
+  "code_B": "L20",
+  "disease_name_A": "청주의료원, 내과",
+  "disease_name_B": "충북대학교병원, 신경외과",
+  "hospital": "세명대학교 충주한방병원,\n 침구의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "2회",
+  "period_A_3": "7일"
+}

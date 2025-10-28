@@ -1,0 +1,23 @@
+{
+  "name": "서하윤",
+  "dob": "921226-1283465",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "아스피린 100mg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "필요 시 복용",
+  "code_A": "J01",
+  "code_B": "L29",
+  "disease_name_A": "서울아산병원, 내과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "충북대학교병원, 내과",
+  "period_A_1": "5ml",
+  "period_A_2": "3회",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "5"
+}

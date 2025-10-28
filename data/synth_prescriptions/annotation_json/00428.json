@@ -1,0 +1,23 @@
+{
+  "name": "신예린",
+  "dob": "940519-1578051",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "심바스타틴 20mg",
+  "medication_C": "이부프로펜 200mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "L23",
+  "code_B": "K21",
+  "disease_name_A": "충북대학교병원, 신경과",
+  "disease_name_B": "충북대학교병원, 정형외과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 산부인과",
+  "period_A_1": "2정",
+  "period_A_2": "1회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "2",
+  "period_B_3": "30",
+  "period_C_1": "1정",
+  "period_C_2": "2",
+  "period_C_3": "5일"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "이서윤",
+  "dob": "881122-2318444",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "메트포르민 500mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "R11",
+  "code_B": "M16",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "disease_name_B": "청주의료원, 응급의학과",
+  "hospital": "건국대학교 충주병원,\n가정의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "2회",
+  "period_A_3": "7",
+  "period_B_1": "5ml",
+  "period_B_2": "2회",
+  "period_B_3": "5일"
+}

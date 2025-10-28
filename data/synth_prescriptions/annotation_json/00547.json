@@ -1,0 +1,23 @@
+{
+  "name": "김하늘",
+  "dob": "950104-1847220",
+  "date": "2025-10-27",
+  "medication_A": "아목시실린 500mg",
+  "medication_B": "레보티록신 50mcg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "L20",
+  "code_B": "L23",
+  "disease_name_A": "충북대학교병원, 신경외과",
+  "disease_name_B": "충북대학교병원, 신경과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 외과",
+  "period_A_1": "10ML",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "14",
+  "period_C_1": "2정",
+  "period_C_2": "2",
+  "period_C_3": "7"
+}

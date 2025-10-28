@@ -1,0 +1,19 @@
+{
+  "name": "이유진",
+  "dob": "971005-1867987",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "심바스타틴 20mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "G43",
+  "code_B": "A09",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 정형외과",
+  "disease_name_B": "의료법인한마음의료\n재단하나병원, 이비인후과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 응급의학과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "5일",
+  "period_B_1": "1정",
+  "period_B_2": "2회",
+  "period_B_3": "14일"
+}

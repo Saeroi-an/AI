@@ -1,0 +1,15 @@
+{
+  "name": "김소현",
+  "dob": "961108-1502207",
+  "date": "2025-10-27",
+  "medication_A": "프로프라놀롤정 40mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "I10",
+  "code_B": "B97",
+  "disease_name_A": "장사랑박종범내과, 내과",
+  "disease_name_B": "청주의료원, 내과",
+  "hospital": "건국대학교 충주병원,\n 응급의학과",
+  "period_A_1": "5ml",
+  "period_A_2": "1회",
+  "period_A_3": "7"
+}

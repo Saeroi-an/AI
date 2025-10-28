@@ -1,0 +1,19 @@
+{
+  "name": "서민서",
+  "dob": "921001-1740404",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "시메티딘 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "F40",
+  "code_B": "E05",
+  "disease_name_A": "의료법인 정산의료재단 효성병원, \n응급의학과",
+  "disease_name_B": "의료법인 송암의료재단 마이크로병원,\n 영상의학과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 가정의학과",
+  "period_A_1": "1정",
+  "period_A_2": "2",
+  "period_A_3": "30일",
+  "period_B_1": "10ML",
+  "period_B_2": "1",
+  "period_B_3": "5일"
+}

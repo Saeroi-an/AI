@@ -1,0 +1,23 @@
+{
+  "name": "오세훈",
+  "dob": "870621-1047816",
+  "date": "2025-10-27",
+  "medication_A": "타이레놀 500mg",
+  "medication_B": "레보티록신 50mcg",
+  "medication_C": "타이레놀 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "H53",
+  "code_B": "H11",
+  "disease_name_A": "의료법인한마음의\n료재단하나병원, 정형외과",
+  "disease_name_B": "의료법인한마음의료재단\n하나병원, 내과",
+  "hospital": "의료법인 힐링의료재단\n 옥천성모병원, 일반외과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "5일",
+  "period_C_1": "1정",
+  "period_C_2": "2회",
+  "period_C_3": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "한지우",
+  "dob": "890926-2621805",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "medication_B": "레보티록신 50mcg",
+  "medication_C": "하이드로코르티손 10mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "B97",
+  "code_B": "N20",
+  "disease_name_A": "청주의료원, 내과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "hospital": "의료법인 자산의료재단\n 제천서울병원, 정형외과",
+  "period_A_1": "2정",
+  "period_A_2": "3회",
+  "period_A_3": "14",
+  "period_B_1": "1정",
+  "period_B_2": "3회",
+  "period_B_3": "14일",
+  "period_C_1": "1정",
+  "period_C_2": "3회",
+  "period_C_3": "7일"
+}

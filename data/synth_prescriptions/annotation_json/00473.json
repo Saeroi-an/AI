@@ -1,0 +1,23 @@
+{
+  "name": "이상훈",
+  "dob": "960217-2953488",
+  "date": "2025-10-27",
+  "medication_A": "이부프로펜 200mg",
+  "medication_B": "아목시실린 500mg",
+  "medication_C": "이부프로펜 200mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "F33",
+  "code_B": "L29",
+  "disease_name_A": "의료법인 정산의료재단 효성병원,\n 정형외과",
+  "disease_name_B": "충북대학교병원, 응급의학과",
+  "hospital": "청주의료원, 외과",
+  "period_A_1": "1정",
+  "period_A_2": "1회",
+  "period_A_3": "30",
+  "period_B_1": "1정",
+  "period_B_2": "1",
+  "period_B_3": "14",
+  "period_C_1": "10ml",
+  "period_C_2": "1",
+  "period_C_3": "14일"
+}

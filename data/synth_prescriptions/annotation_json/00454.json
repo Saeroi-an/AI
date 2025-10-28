@@ -1,0 +1,23 @@
+{
+  "name": "한소현",
+  "dob": "890417-1429363",
+  "date": "2025-10-27",
+  "medication_A": "아목시실린 500mg",
+  "medication_B": "메트포르민 500mg",
+  "medication_C": "메트포르민 500mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "J04",
+  "code_B": "R07",
+  "disease_name_A": "서울성모병원, 내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 가정의학과",
+  "hospital": "충북대학교병원, 안과",
+  "period_A_1": "1정",
+  "period_A_2": "2회",
+  "period_A_3": "5일",
+  "period_B_1": "5ml",
+  "period_B_2": "1회",
+  "period_B_3": "7",
+  "period_C_1": "2정",
+  "period_C_2": "1",
+  "period_C_3": "5일"
+}

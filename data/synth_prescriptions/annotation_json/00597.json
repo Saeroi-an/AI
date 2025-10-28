@@ -1,0 +1,23 @@
+{
+  "name": "박하윤",
+  "dob": "900104-2365516",
+  "date": "2025-10-27",
+  "medication_A": "하이드로코르티손 10mg",
+  "medication_B": "암로디핀 5mg",
+  "medication_C": "시메티딘 200mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "R11",
+  "code_B": "J06",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "disease_name_B": "부산대학교병원, 외과",
+  "hospital": "의료법인 건명의료재단\n 중앙제일병원, 산부인과",
+  "period_A_1": "1정",
+  "period_A_2": "1",
+  "period_A_3": "30일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "5일",
+  "period_C_1": "10ml",
+  "period_C_2": "3회",
+  "period_C_3": "7"
+}

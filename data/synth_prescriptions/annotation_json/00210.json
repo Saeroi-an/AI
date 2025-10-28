@@ -1,0 +1,19 @@
+{
+  "name": "한소현",
+  "dob": "890630-2420782",
+  "date": "2025-10-27",
+  "medication_A": "레보티록신 50mcg",
+  "medication_B": "심바스타틴 20mg",
+  "dosage": "하루 2회, 식전",
+  "code_A": "J01",
+  "code_B": "E05",
+  "disease_name_A": "서울아산병원, 내과",
+  "disease_name_B": "의료법인 송암의료재단 마이크로병원,\n 영상의학과",
+  "hospital": "조내과, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "5ml",
+  "period_B_2": "3",
+  "period_B_3": "14일"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "임예린",
+  "dob": "931125-1495693",
+  "date": "2025-10-27",
+  "medication_A": "메트포르민 500mg",
+  "medication_B": "아스피린 100mg",
+  "medication_C": "아스피린 100mg",
+  "dosage": "필요 시 복용",
+  "code_A": "E03",
+  "code_B": "B97",
+  "disease_name_A": "의료법인 송암의료재단 마이크로병원,\n 정형외과",
+  "disease_name_B": "청주의료원, 내과",
+  "hospital": "서울아산병원, 내과",
+  "period_A_1": "10ML",
+  "period_A_2": "2회",
+  "period_A_3": "7",
+  "period_B_1": "5ml",
+  "period_B_2": "3회",
+  "period_B_3": "14",
+  "period_C_1": "10ml",
+  "period_C_2": "2회",
+  "period_C_3": "7"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "배지은",
+  "dob": "960313-1906629",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "타이레놀 500mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "E66",
+  "code_B": "R51",
+  "disease_name_A": "의료법인 송암의료재단 마이크로병원,\n 내과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 내과",
+  "hospital": "의료법인 정산의료재단 효성병원,\n 정형외과",
+  "period_A_1": "5ml",
+  "period_A_2": "3회",
+  "period_A_3": "30",
+  "period_B_1": "5ml",
+  "period_B_2": "3",
+  "period_B_3": "14"
+}

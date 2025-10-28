@@ -1,0 +1,15 @@
+{
+  "name": "李敏",
+  "dob": "990601-8274159",
+  "date": "2025-10-27",
+  "medication_A": "에스트로겐패치 0.05mg",
+  "dosage": "하루 3회, 아침/점심/저녁",
+  "code_A": "K57",
+  "code_B": "F43",
+  "disease_name_A": "충북대학교병원, 안과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 외과",
+  "hospital": "서울아산병원, 내과",
+  "period_A_1": "1정",
+  "period_A_2": "3",
+  "period_A_3": "14일"
+}

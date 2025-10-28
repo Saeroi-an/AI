@@ -1,0 +1,19 @@
+{
+  "name": "이유진",
+  "dob": "971219-1539849",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "암로디핀 5mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "R50",
+  "code_B": "L23",
+  "disease_name_A": "청주의료원, 이비인후과",
+  "disease_name_B": "충북대학교병원, 신경과",
+  "hospital": "조내과, 내과",
+  "period_A_1": "2정",
+  "period_A_2": "3회",
+  "period_A_3": "7일",
+  "period_B_1": "10ML",
+  "period_B_2": "1회",
+  "period_B_3": "7일"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "서하윤",
+  "dob": "920913-1543427",
+  "date": "2025-10-27",
+  "medication_A": "로사르탄 50mg",
+  "medication_B": "로사르탄 50mg",
+  "medication_C": "메트포르민 500mg",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "F33",
+  "code_B": "L27",
+  "disease_name_A": "의료법인 정산의료재단 효성병원,\n 정형외과",
+  "disease_name_B": "충북대학교병원, 영상의학과",
+  "hospital": "조내과, 내과",
+  "period_A_1": "2정",
+  "period_A_2": "1회",
+  "period_A_3": "7일",
+  "period_B_1": "1정",
+  "period_B_2": "3",
+  "period_B_3": "7",
+  "period_C_1": "10ML",
+  "period_C_2": "2",
+  "period_C_3": "5"
+}

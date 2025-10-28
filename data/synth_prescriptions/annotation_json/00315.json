@@ -1,0 +1,19 @@
+{
+  "name": "최하은",
+  "dob": "910130-2935296",
+  "date": "2025-10-27",
+  "medication_A": "시메티딘 200mg",
+  "medication_B": "로사르탄 50mg",
+  "dosage": "하루 1회, 저녁 식후",
+  "code_A": "N30",
+  "code_B": "F43",
+  "disease_name_A": "의료법인 정산의료재단\n 효성병원, 한방과",
+  "disease_name_B": "재단법인베스티안재단베스티안병원,\n 외과",
+  "hospital": "청주의료원, 가정의학과",
+  "period_A_1": "10ml",
+  "period_A_2": "3",
+  "period_A_3": "7",
+  "period_B_1": "1정",
+  "period_B_2": "1회",
+  "period_B_3": "5"
+}
