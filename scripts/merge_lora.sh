@@ -9,7 +9,7 @@ export PYTHONPATH=src:$PYTHONPATH
 export CUDA_VISIBLE_DEVICES=0,1
 
 python /home/jwlee/volume/Qwen2-vl-finetune-wo/src/merge_lora_weights.py \
-    --model-path /home/jwlee/volume/Qwen2-vl-finetune-wo/output/qwen2vl_cord
+    --model-path /home/jwlee/volume/Qwen2-vl-finetune-wo/output/zh_ko_qwen2vl
     --model-base $MODEL_NAME  \
-    --save-model-path /home/jwlee/volume/Qwen2-vl-finetune-wo/output/merge_test
+    --save-model-path /home/jwlee/volume/Qwen2-vl-finetune-wo/output/merge_zh_ko
     --safe-serialization

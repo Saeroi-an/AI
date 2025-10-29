@@ -1,0 +1,19 @@
+{
+  "name": "김민준",
+  "dob": "920514-2156408",
+  "date": "2025-10-28",
+  "medication_A": "케토롤락주사제 30mg/mL",
+  "medication_B": "니코틴패치",
+  "dosage": "하루 1회, 아침 식후",
+  "code_A": "R11",
+  "code_B": "N20",
+  "disease_name_A": "재단법인베스티안재단베스티안병원,\n 응급의학과",
+  "disease_name_B": "의료법인 정산의료재단\n 효성병원, 산부인과",
+  "hospital": "의료법인 명지의료재단\n 명지병원, 신경외과",
+  "period_A_1": "1정",
+  "period_A_2": "3회",
+  "period_A_3": "5일",
+  "period_B_1": "10ml",
+  "period_B_2": "1회",
+  "period_B_3": "7"
+}

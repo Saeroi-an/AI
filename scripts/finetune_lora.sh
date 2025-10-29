@@ -28,8 +28,8 @@ deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/src/train/train_sft.py \
     --num_lora_modules -1 \
     --deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/zero3_offload.json \
     --model_id $MODEL_NAME \
-    --data_path /home/jwlee/volume/Qwen2-vl-finetune-wo/synth_rx/qa_datasets_LLaVA_for_finetune.json \
-    --image_folder /home/jwlee/volume/Qwen2-vl-finetune-wo/data/cord_sample/images \
+    --data_path /home/jwlee/volume/Qwen2-vl-finetune-wo/synth_rx/zh_cord_LLaVA_datasets_final2.json \
+    --image_folder /home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets \
     --remove_unused_columns False \
     --freeze_vision_tower False \
     --freeze_llm True \
@@ -37,19 +37,19 @@ deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/src/train/train_sft.py \
     --bf16 True \
     --fp16 False \
     --disable_flash_attn2 False \
-    --output_dir /home/jwlee/volume/Qwen2-vl-finetune-wo/output/qwen2vl_cord \
+    --output_dir /home/jwlee/volume/Qwen2-vl-finetune-wo/output/zh_ko_qwen2vl \
     --num_train_epochs 2 \
     --per_device_train_batch_size $BATCH_PER_DEVICE \
     --gradient_accumulation_steps $GRAD_ACCUM_STEPS \
     --image_min_pixels $((256 * 28 * 28)) \
-    --image_max_pixels $((1400 * 28 * 28)) \
+    --image_max_pixels $((1200 * 1000)) \
     --learning_rate 1e-4 \
     --merger_lr 1e-5 \
     --vision_lr 2e-6 \
     --weight_decay 0.1 \
     --warmup_ratio 0.03 \
     --lr_scheduler_type "cosine" \
-    --logging_steps 1 \
+    --logging_steps 15 \
     --tf32 True \
     --gradient_checkpointing True \
     --report_to tensorboard \

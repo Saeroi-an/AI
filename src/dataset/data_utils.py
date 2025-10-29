@@ -1,8 +1,6 @@
 import re
 import torch
-
-
-
+from qwen_vl_utils import process_vision_info
 
 from src.constants import (
     DEFAULT_IMAGE_TOKEN,
@@ -12,6 +10,7 @@ from src.constants import (
     VISION_START_TOKEN,
     VISION_END_TOKEN,
 )
+
 
 
 def replace_image_tokens(input_string, is_video=False):

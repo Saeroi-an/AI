@@ -1,1 +1,24 @@
-train/
+# 모델 가중치
+*.safetensors
+*.pt
+*.bin
+
+# 학습 output
+/output/*
+!output/.gitkeep
+
+# 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# IDE/환경
+
+envs/
+.vscode/
+
+# TensorBoard logs
+tensorboard_logs/

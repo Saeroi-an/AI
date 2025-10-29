@@ -1,3 +1,4 @@
+# src/trainer/sft_trainer.py
 import os
 import torch
 import torch.nn as nn
@@ -188,19 +189,20 @@ class QwenSFTTrainer(Trainer):
         else:
             super(QwenSFTTrainer, self)._save_checkpoint(model, trial)
 
-    # def training_step(self, model, inputs, num_items_in_batch):
+    def training_step(self, model, inputs, num_items_in_batch):
+        # 여기 주석
         
-    #     loss = super().training_step(model, inputs, num_items_in_batch)
+        loss = super().training_step(model, inputs, num_items_in_batch)
 
-    #     for name, p in model.named_parameters():
-    #         if 'visual' in name and 'lora_' in name:
-    #             g = p.grad
-    #             if g is None:
-    #                 print(f"[NONE] {name}")
-    #             else:
-    #                 print(f"[GRAD] {name} | norm={g.norm().item():.3e}")
+        for name, p in model.named_parameters():
+            if 'visual' in name and 'lora_' in name:
+                g = p.grad
+                if g is None:
+                    print(f"[NONE] {name}")
+                else:
+                    print(f"[GRAD] {name} | norm={g.norm().item():.3e}")
     
-    #     return loss
+        return loss
 
     def prediction_step(self, model, inputs, prediction_loss_only, ignore_keys=None):
         labels = inputs.get("labels") if "labels" in inputs else None
