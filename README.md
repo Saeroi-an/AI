@@ -1,6 +1,7 @@
 # Rfy23/qwenvl-7B-medical-ko-zh
 본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.
-[main이미지](image/main_ai.png)
+[main이미지](
+<img src="image/main_ai.png">
 
 ## 🌐 Training Strategy (Hybrid Fine-tuning)
 
