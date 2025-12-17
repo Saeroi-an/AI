@@ -1,9 +1,12 @@
 # Rfy23/qwenvl-7B-medical-ko-zh
-본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.
-[main이미지](
+
+**본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.**
+
 <img src="image/main_ai.png">
 
-## 🌐 Training Strategy (Hybrid Fine-tuning)
+## 🌐 Model Fine-tuning
+base model: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
+🤗 fine-tuning model: [qwenvl-7B-medical-ko-zh](https://huggingface.co/Rfy23/qwenvl-7B-medical-ko-zh)
 
 효율적인 자원 사용과 정확한 OCR 성능을 위해 Hybrid Fine-tuning 전략을 채택했습니다.
 
@@ -29,10 +32,14 @@
 ---
 
 ## 🌐 Dataset Info
-[datasetinfo이미지](image/datasetsInfo.png)
+<img src="image/datasetsInfo.png">
 
-- Train Data (3,636 samples): 합성된 한국어 처방전(90%) + Key-Value 학습용 영수증(10%)
+- Train Data (3,636 samples): 합성된 한국어 처방전(90%) + Key-Value 학습용 영수증(10)
 - Test Data (481 samples): 실제 처방전 양식 기반 테스트셋
+
+데이터셋은 [여기](https://github.com/Saeroi-an/AI/tree/main/data)에서 찾을 수 있습니다. 추후에 허깅페이스에 업로드 할 예정입니다.
+
+
 
 ---
 
@@ -53,4 +60,5 @@ bash finetune_lora.sh
 - Optimization: DeepSpeed ZeRO-3 Offload, Liger Kernel
 - Learning Rate: LLM($5\times10^{-6}$), Vision($2\times10^{-6}$), Merger($1\times10^{-5}$)
 - Batch Size: 32 (Global) / Epochs: 5
+
   
