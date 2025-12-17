@@ -1,10 +1,9 @@
 # Rfy23/qwenvl-7B-medical-ko-zh
+본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.
+(image/main_ai.png)
 
-## 🌐 Introducion
+## 🌐 Training Strategy (Hybrid Fine-tuning)
 
-본 프로젝트는 한국 의료 시스템을 이용하고자 하는 외국인을 위하여 만든 의료문서 인식 AI 모델입니다. 한국의 의료 문서(처방전, 건강검진내역, 영수증)을 인식해주는 Vision Language 모델입니다.
-
-### Training Strategy (Hybrid Fine-tuning)
 효율적인 자원 사용과 정확한 OCR 성능을 위해 Hybrid Fine-tuning 전략을 채택했습니다.
 
 - Vision Tower & Merger (Full Fine-tuning): 처방전의 미세한 한글 획(ㅗ, ㅜ 등) 인식 성능을 높이기 위해 언프리징(Unfrozen)하여 직접 학습.
@@ -29,9 +28,10 @@
 ---
 
 ## 🌐 Dataset Info
+(image/datasetsInfo.png)
+
 - Train Data (3,636 samples): 합성된 한국어 처방전(90%) + Key-Value 학습용 영수증(10%)
 - Test Data (481 samples): 실제 처방전 양식 기반 테스트셋
-  
 
 ---
 
