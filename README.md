@@ -5,8 +5,8 @@
 <img src="image/main_ai.png">
 
 ## 🌐 Model Fine-tuning
-base model: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
-🤗 fine-tuning model: [qwenvl-7B-medical-ko-zh](https://huggingface.co/Rfy23/qwenvl-7B-medical-ko-zh)
+- base model: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
+- 🤗 fine-tuning model: [qwenvl-7B-medical-ko-zh](https://huggingface.co/Rfy23/qwenvl-7B-medical-ko-zh)
 
 효율적인 자원 사용과 정확한 OCR 성능을 위해 Hybrid Fine-tuning 전략을 채택했습니다.
 
@@ -33,13 +33,53 @@ base model: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-I
 
 ## 🌐 Dataset Info
 <img src="image/datasetsInfo.png">
-
+- Dataset huggingface url : [Rfy23/prescriptions_ko_zh](https://huggingface.co/datasets/Rfy23/prescriptions_ko_zh)
 - Train Data (3,636 samples): 합성된 한국어 처방전(90%) + Key-Value 학습용 영수증(10)
 - Test Data (481 samples): 실제 처방전 양식 기반 테스트셋
 
 데이터셋은 [여기](https://github.com/Saeroi-an/AI/tree/main/data)에서 찾을 수 있습니다. 추후에 허깅페이스에 업로드 할 예정입니다.
 
+### LLaVA format dataset
+만약 데이터셋을 커스텀하고 싶다면, 아래 LLaVA 포맷 형태를 유지하여 커스텀 하세요. 단, <image> 태그는 반드시 들어가야 하고, <image> 값인 image_path도 반드시 해당 파일에 존재하여야 합니다.
+```json
+ {
+    "id": "00427_zh",
+    "image": "data/ko_zh_datasets/train/00427_zh.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n以下是韩语处方\n请告诉我这张处方上的病人姓名和身份证号码。"
+      },
+      {
+        "from": "gpt",
+        "value": "病人姓名: 조하은, 身份证号: 910520-2469452"
+      },
+      {
+        "from": "human",
+        "value": "我得的是什么病？"
+      },
+      {
+        "from": "gpt",
+        "value": "疾病编码: H54, G43。"
+      },
+      {
+        "from": "human",
+        "value": "请把处方上的药都解释一下。"
+      },
+      {
+        "from": "gpt",
+        "value": "处方药物: 심바스타틴 20mg, 每次剂量: 5ml, 每日服用次数: 1, 总疗程: 7\n处方药物: 암로디핀 5mg, 每次剂量: 5ml, 每日服用次数: 2, 总疗程: 14\n处方药物: 아스피린 100mg, 每次剂量: 5ml, 每日服用次数: 3, 总疗程: 7日"
+      },
+      {
+        "from": "human",
+        "value": "这张处方上写了什么？"
+      },
+      {
+        "from": "gpt",
+        "value": "病人姓名: 조하은\n身份证号: 910520-2469452\n处方日期: 2025-10-27\n疾病编码A: H54\n疾病编码B: G43\n处方药物: 심바스타틴 20mg, 每次剂量: 5ml, 每日服用次数: 1, 总疗程: 7\n处方药物: 암로디핀 5mg, 每次剂量: 5ml, 每日服用次数: 2, 总疗程: 14\n处方药物: 아스피린 100mg, 每次剂量: 5ml, 每日服用次数: 3, 总疗程: 7日"
+      }
 
+```
 
 ---
 
