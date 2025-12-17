@@ -33,14 +33,13 @@
 
 ## 🌐 Dataset Info
 <img src="image/datasetsInfo.png">
-- Dataset huggingface url : [Rfy23/prescriptions_ko_zh](https://huggingface.co/datasets/Rfy23/prescriptions_ko_zh)
 - Train Data (3,636 samples): 합성된 한국어 처방전(90%) + Key-Value 학습용 영수증(10)
 - Test Data (481 samples): 실제 처방전 양식 기반 테스트셋
 
 데이터셋은 [여기](https://github.com/Saeroi-an/AI/tree/main/data)에서 찾을 수 있습니다. 추후에 허깅페이스에 업로드 할 예정입니다.
 
 ### LLaVA format dataset
-만약 데이터셋을 커스텀하고 싶다면, 아래 LLaVA 포맷 형태를 유지하여 커스텀 하세요. 단, <image> 태그는 반드시 들어가야 하고, <image> 값인 image_path도 반드시 해당 파일에 존재하여야 합니다.
+만약 데이터셋을 커스텀하고 싶다면, 아래 **LLaVA 포맷 형태를 유지**하여 커스텀 하세요. 단, **<image> 태그는 반드시 들어가야 하고, <image> 값인 image_path도 반드시 해당 파일에 존재**하여야 합니다.
 ```json
  {
     "id": "00427_zh",
