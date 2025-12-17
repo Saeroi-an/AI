@@ -1,58 +1,124 @@
 import os
+import json
 import shutil
-from pathlib import Path
 import random
+from pathlib import Path
+from typing import List, Dict, Any
+from tqdm import tqdm 
 
 # ----------------------------
-# 절대경로 기준 설정
+# 1. 경로 설정 및 파라미터
 # ----------------------------
-BASE_DIR = Path(__file__).resolve().parent.parent  # scripts/ -> Qwen2-vl-finetune-wo/
-DATA_DIR = BASE_DIR / "data/ko_zh_datasets"
+DATA_BASE_PATH = Path("/home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4")
 
-# 새 폴더
-NEW_DATA_DIR = BASE_DIR / "data/ko_zh_datasets_2"
-TRAIN_DIR = NEW_DATA_DIR / "train"
-TEST_DIR  = NEW_DATA_DIR / "test"
+# 원본 및 대상 파일/폴더 경로
+TEST_JSON_PATH = DATA_BASE_PATH / "test_zh_ko.json"
+TEST_IMG_DIR = DATA_BASE_PATH / "test"
+VAL_IMG_DIR = DATA_BASE_PATH / "val"
+VAL_JSON_PATH = DATA_BASE_PATH / "val_zh_ko.json"
 
-# train/test 폴더 생성
-TRAIN_DIR.mkdir(parents=True, exist_ok=True)
-TEST_DIR.mkdir(parents=True, exist_ok=True)
+VAL_RATIO_FROM_TEST = 0.5 # 50% 분할
+random.seed(42) 
 
+# --- 유틸리티 함수 (생략) ---
+def load_json(file_path: Path) -> List[Dict[str, Any]]:
+    """JSON 파일을 로드합니다."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def save_json(file_path: Path, data: List[Dict[str, Any]]):
+    """JSON 파일을 저장합니다."""
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 # ----------------------------
-# _ko, _zh 기준으로 파일 나누기
-# ----------------------------
-ko_files = sorted(DATA_DIR.glob("*_ko.jpg"))
-zh_files = sorted(DATA_DIR.glob("*_zh.jpg"))
 
-print(f"Found _ko files: {len(ko_files)}")
-print(f"Found _zh files: {len(zh_files)}")
+def split_test_to_val_and_test_and_update_paths():
+    
+    # 1. 이전 Val 폴더 제거 및 새로 생성 (재실행 시 안전 확보)
+    if VAL_IMG_DIR.exists():
+        shutil.rmtree(VAL_IMG_DIR)
+    VAL_IMG_DIR.mkdir()
 
-# 랜덤 섞기
-random.seed(42)
-random.shuffle(ko_files)
-random.shuffle(zh_files)
+    print(f"--- 📂 JSON 파일 로드: {TEST_JSON_PATH.name} ---")
+    
+    try:
+        test_data = load_json(TEST_JSON_PATH)
+    except Exception as e:
+        print(f"❌ JSON 파일 로드 중 오류 발생: {e}. 파일을 확인하세요.")
+        return
 
-# _ko: 600 train / 101 test
-ko_train_files = ko_files[:600]
-ko_test_files  = ko_files[600:701]
+    total_test_count = len(test_data)
+    print(f"✅ 초기 test_zh_ko.json 항목 개수 (JSON 기준): {total_test_count:,}개")
+    
+    if total_test_count != 965:
+        print(f"❗경고: JSON 항목 개수가 예상(965개)과 다릅니다. 현재 {total_test_count}개로 진행합니다.")
 
-# _zh: 1000 train / 300 test
-zh_train_files = zh_files[:1000]
-zh_test_files  = zh_files[1000:1300]
+    # 2. 데이터 분할 (JSON 항목)
+    random.shuffle(test_data)
+    val_count = int(total_test_count * VAL_RATIO_FROM_TEST)
+    
+    val_set = test_data[:val_count]
+    new_test_set = test_data[val_count:] 
 
-# ----------------------------
-# 파일 복사 함수
-# ----------------------------
-def copy_files(file_list, dest_dir):
-    for f in file_list:
-        shutil.copy(f, dest_dir / f.name)
+    print(f"\n--- 📝 항목 분할 결과 (Validation/Test) ---")
+    print(f"  > 분할된 Validation 셋 항목 개수: {len(val_set):,}개")
+    print(f"  > 잔여 Test 셋 항목 개수: {len(new_test_set):,}개")
+    
+    # 3. 이미지 파일 이동 및 JSON 경로 업데이트
+    print(f"\n--- 🏞️ 이미지 파일 이동/복사 및 JSON 경로 업데이트 ---")
+    
+    # 3.1. Validation 셋 처리: 이미지 이동 및 경로 업데이트
+    moved_image_count = 0
+    updated_val_set = []
+    
+    for item in tqdm(val_set, desc="Validation set processing"):
+        # 이미지 파일 이름 추출 (예: '00427_zh.jpg')
+        image_filename = Path(item["image"]).name 
+        
+        # 원본 경로는 현재 TEST_IMG_DIR 내에 있습니다.
+        src_path = TEST_IMG_DIR / image_filename
+        dst_path = VAL_IMG_DIR / image_filename
+        
+        # 파일 이동 (Test -> Val)
+        if src_path.exists():
+            shutil.move(src_path, dst_path)
+            
+            # JSON 항목의 'image' 경로를 새로운 'val' 경로로 업데이트
+            # 경로 형식: 'data/ko_zh_datasets_3/val/파일이름.jpg' (최상위 폴더 기준)
+            item["image"] = str(dst_path.relative_to(DATA_BASE_PATH.parent.parent)) 
+            
+            updated_val_set.append(item)
+            moved_image_count += 1
+        else:
+            # 이전에 누락된 이미지가 없다고 했으므로, 이 경고는 이전 실행의 잔여 파일 문제일 수 있습니다.
+            print(f"\n❌ 경고: 이미지 파일이 Test 폴더에 없습니다: {src_path}. 이 항목은 JSON에서도 제외됩니다.")
 
-# train/test 폴더에 복사
-copy_files(ko_train_files, TRAIN_DIR)
-copy_files(zh_train_files, TRAIN_DIR)
-copy_files(ko_test_files, TEST_DIR)
-copy_files(zh_test_files, TEST_DIR)
+    # 3.2. New Test 셋 처리: JSON 경로만 업데이트
+    updated_test_set = []
+    
+    for item in new_test_set:
+        # 파일 이름 추출
+        image_filename = Path(item["image"]).name
+        src_path = TEST_IMG_DIR / image_filename
+        
+        # JSON 항목의 'image' 경로를 새로운 'test' 경로로 업데이트
+        # 경로 형식: 'data/ko_zh_datasets_3/test/파일이름.jpg'
+        item["image"] = str(src_path.relative_to(DATA_BASE_PATH.parent.parent))
+        updated_test_set.append(item)
 
-# 결과 출력
-print(f"Train: {len(ko_train_files) + len(zh_train_files)} images")
-print(f"Test:  {len(ko_test_files) + len(zh_test_files)} images")
+    # 4. 최종 JSON 파일 저장
+    save_json(VAL_JSON_PATH, updated_val_set)
+    save_json(TEST_JSON_PATH, updated_test_set)
+    
+    print(f"\n✅ val_zh_ko.json 저장 완료: ({len(updated_val_set):,}개 항목)")
+    print(f"✅ test_zh_ko.json 업데이트 완료: ({len(updated_test_set):,}개 항목)")
+    
+    print("-" * 50)
+    print(f"✅ 총 {moved_image_count:,}개 이미지 파일이 Val 폴더로 이동 완료.")
+    print(f"✅ 최종 JSON 항목 기준 이미지 개수 (Val): {len(os.listdir(VAL_IMG_DIR)):,}개")
+    print(f"✅ 최종 JSON 항목 기준 이미지 개수 (Test): {len(updated_test_set):,}개 (남아있는 총 파일 수와 다를 수 있음)")
+    print("-" * 50)
+
+
+if __name__ == "__main__":
+    split_test_to_val_and_test_and_update_paths()

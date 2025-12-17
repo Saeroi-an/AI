@@ -3,8 +3,8 @@ import torch
 from peft import LoraConfig, get_peft_model
 import ast
 from transformers import AutoProcessor, BitsAndBytesConfig, Qwen2VLForConditionalGeneration, HfArgumentParser, Qwen2_5_VLForConditionalGeneration
-from src.trainer import QwenSFTTrainer
-from src.dataset import make_supervised_data_module
+from src.trainer.sft_trainer import QwenSFTTrainer
+from src.dataset.sft_dataset import make_supervised_data_module
 from src.params import DataArguments, ModelArguments, TrainingArguments
 from train.train_utils import get_peft_state_maybe_zero_3, get_peft_state_non_lora_maybe_zero_3, safe_save_model_for_hf_trainer
 import pathlib

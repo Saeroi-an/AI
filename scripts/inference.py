@@ -1,3 +1,5 @@
+""" inference finetuning model """
+
 import torch
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
@@ -6,7 +8,7 @@ from qwen_vl_utils import process_vision_info
 # 1. 모델 & 프로세서 로드
 # ------------------------------
 print("모델 로드 중...")
-model_name = "Rfy23/qwen2vl-ko-zh"  # 내 병합 모델
+model_name = "Rfy23/qwenvl-7B-medical-ko-zh"  # Rfy23/qwen2vl-ko-zh
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 model = Qwen2VLForConditionalGeneration.from_pretrained(
@@ -23,8 +25,8 @@ print("프로세서 로드 완료!")
 # ------------------------------
 # 2. 고정 질문 + 이미지 URL
 # ------------------------------
-image_url = "/home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/test-out/images/00001.jpg"
-fixed_question = "这张处方上写了什么？"  # 원하는 고정 질문
+image_url = "/home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/test-Img/images/image.png"
+fixed_question = "请将以下处方翻译成中文。药品的名称请保持韩语不变，其余部分请用中文表达。"  # 원하는 고정 질문
 
 messages = [
     {

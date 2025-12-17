@@ -4,7 +4,7 @@
 *.bin
 
 # 학습 output
-/output/*
+output/*
 !output/.gitkeep
 
 # 캐시
@@ -22,3 +22,19 @@ envs/
 
 # TensorBoard logs
 tensorboard_logs/
+
+# AI/ML 관련 대용량 파일 및 체크포인트 제외
+*.safetensors
+*.pth
+*.onnx
+*.ckpt
+*.bin
+*.model
+
+# 데이터셋 및 로그
+data/
+logs/
+runs/
+.venv/
+__pycache__/
+.DS_Store

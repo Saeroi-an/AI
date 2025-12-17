@@ -6,7 +6,7 @@ import json
 import os
 
 TEMPLATE_PATH = "data/synth_rx/prescriptions.jsonl"
-OUTPUT_DIR = "data/synth_rx/pdfs"
+OUTPUT_DIR = "/scripts/out"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def draw_prescription(c, data):

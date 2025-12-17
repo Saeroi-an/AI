@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # You can use 2B instead of 7B
-# MODEL_NAME="Qwen/Qwen2-VL-7B-Instruct"
-MODEL_NAME="Qwen/Qwen2-VL-2B-Instruct"
+MODEL_NAME="Qwen/Qwen2-VL-7B-Instruct"
+# MODEL_NAME="Qwen/Qwen2-VL-2B-Instruct"
 # MODEL_NAME="Qwen/Qwen2.5-VL-3B-Instruct"
 # MODEL_NAME="Qwen/Qwen2.5-VL-7B-Instruct"
-
-export PYTHONPATH=src:$PYTHONPATH
+cd /home/jwlee/volume/Qwen2-vl-finetune-wo/
+export PYTHONPATH=./src:$PYTHONPATH
 
 export CUDA_VISIBLE_DEVICES=0,1   # train 환경에서는 0,1이 물리적으로 2,3번 GPU
 
@@ -15,21 +15,23 @@ BATCH_PER_DEVICE=2
 NUM_DEVICES=2
 GRAD_ACCUM_STEPS=$((GLOBAL_BATCH_SIZE / (BATCH_PER_DEVICE * NUM_DEVICES)))
 
-# If you want to tune the `embed_token` with LoRA, You need to tune `lm_head` together
+# If you want to set the min pixels and max pixels for Qwen3-VL, You should set as (N * 32 * 32)
 
 deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/src/train/train_sft.py \
-    --use_liger True \
+    --use_liger_kernel True \
     --lora_enable True \
     --use_dora False \
     --lora_namespan_exclude "['lm_head', 'embed_tokens']" \
-    --lora_rank 32 \
-    --lora_alpha 32 \
+    --lora_rank 16 \
+    --lora_alpha 16 \
     --lora_dropout 0.05 \
     --num_lora_modules -1 \
     --deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/scripts/zero3_offload.json \
     --model_id $MODEL_NAME \
-    --data_path /home/jwlee/volume/Qwen2-vl-finetune-wo/synth_rx/zh_cord_LLaVA_datasets_final2.json \
-    --image_folder /home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets \
+    --data_path /home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4/train_zh_ko.json \
+    --image_folder /home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4/train \
+    --eval_path /home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4/test_zh_ko.json \
+    --eval_image_folder /home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4/test \
     --remove_unused_columns False \
     --freeze_vision_tower False \
     --freeze_llm True \
@@ -37,24 +39,26 @@ deepspeed /home/jwlee/volume/Qwen2-vl-finetune-wo/src/train/train_sft.py \
     --bf16 True \
     --fp16 False \
     --disable_flash_attn2 False \
-    --output_dir /home/jwlee/volume/Qwen2-vl-finetune-wo/output/zh_ko_qwen2vl \
-    --num_train_epochs 2 \
+    --output_dir /home/jwlee/volume/Qwen2-vl-finetune-wo/output/checkpoints \
+    --num_train_epochs 5 \
     --per_device_train_batch_size $BATCH_PER_DEVICE \
     --gradient_accumulation_steps $GRAD_ACCUM_STEPS \
     --image_min_pixels $((256 * 28 * 28)) \
-    --image_max_pixels $((1200 * 1000)) \
-    --learning_rate 1e-4 \
+    --image_max_pixels $((1280 * 28 * 28)) \
+    --learning_rate 5e-6 \
     --merger_lr 1e-5 \
     --vision_lr 2e-6 \
     --weight_decay 0.1 \
     --warmup_ratio 0.03 \
     --lr_scheduler_type "cosine" \
-    --logging_steps 15 \
+    --logging_steps 1 \
     --tf32 True \
     --gradient_checkpointing True \
     --report_to tensorboard \
     --lazy_preprocess True \
     --save_strategy "steps" \
-    --save_steps 50 \
+    --save_steps 200 \
+    --eval_steps 200 \
+    --load_best_model_at_end False \
     --save_total_limit 5 \
-    --dataloader_num_workers 2
+    --dataloader_num_workers 4

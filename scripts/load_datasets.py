@@ -1,29 +1,40 @@
-from datasets import load_dataset
-import shutil
-import os
+from datasets import Dataset, DatasetDict, Features, Value, Image
+from pathlib import Path
 
-# cord-v2 데이터셋 다운로드 (샘플만 1~2개 사용)
-dataset = load_dataset("naver-clova-ix/cord-v2", split="train")  # 처음 2개 샘플만
+# ----------------------------
+# 경로 설정
+# ----------------------------
+BASE_DIR = Path("Qwen2-vl-finetune-wo/data/ko_zh_datasets_2")
+TRAIN_DIR = BASE_DIR / "train"
+TEST_DIR  = BASE_DIR / "test"
 
-print(f"총 train 샘플 수: {len(dataset)}")
+def build_dataset(image_dir):
+    # 이미지 파일 리스트
+    image_paths = list(image_dir.glob("*.jpg"))
+    
+    # 데이터 생성: {"filename": "0001_ko.jpg", "image": "/full/path/0001_ko.jpg"}
+    data = [{"filename": img.name, "image": str(img)} for img in image_paths]
+    
+    # features 정의
+    features = Features({
+        "filename": Value("string"),
+        "image": Image()
+    })
+    
+    return Dataset.from_list(data, features=features)
 
-# 저장할 경로
-img_dir = "data/cord_sample/images"
-ann_dir = "data/cord_sample/annotations"
+# ----------------------------
+# train/test Dataset 생성
+# ----------------------------
+train_dataset = build_dataset(TRAIN_DIR)
+test_dataset  = build_dataset(TEST_DIR)
 
-os.makedirs(img_dir, exist_ok=True)
-os.makedirs(ann_dir, exist_ok=True)
+dataset_dict = DatasetDict({
+    "train": train_dataset,
+    "test": test_dataset
+})
 
-# 샘플 이미지와 JSON annotation 저장
-for i, sample in enumerate(dataset):
-    # 이미지 저장
-    img_path = os.path.join(img_dir, f"{i:05d}.jpg")
-    sample["image"].save(img_path)
-
-    # JSON annotation 저장
-    ann_path = os.path.join(ann_dir, f"{i:05d}.json")
-    with open(ann_path, "w", encoding="utf-8") as f:
-        import json
-        json.dump(sample["ground_truth"], f, ensure_ascii=False, indent=2)
-
-print("CORD 샘플 데이터 준비 완료!")
+# ----------------------------
+# HuggingFace Hub 업로드
+# ----------------------------
+dataset_dict.push_to_hub("Rfy23/ko_zh_dataset_v1", token="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")

@@ -1,62 +1,34 @@
-import json
 import os
+import json
+from pathlib import Path
 
-# LLaVA dataset JSON 경로
-dataset_file = "synth_rx/llava_receipt_dataset_ko.json"
-sorted_dataset_file = "synth_rx/sorted_llava_receipt_dataset_ko.json" 
+# ----- 수정 -----
+JSON_PATH = "/home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4/val_zh_ko.json"
+TOTAL_IMAGE_DIR = "/home/jwlee/volume/Qwen2-vl-finetune-wo/data/ko_zh_datasets_4/val"
+# -----------------
 
-# dataset_file = "synth_rx/llava_receipt_dataset_en.json"
-# sorted_dataset_file = "synth_rx/sorted_llava_receipt_dataset_en.json" 
+missing = []
+total = 0
 
-# 00000 ~ 00799 파일 범위
-all_possible_files = {f"{i:05d}.json" for i in range(800)}
+with open(JSON_PATH, "r", encoding="utf-8") as f:
+    data = json.load(f)   # JSONL이 아니라 list임
 
-# dataset 불러오기
-with open(dataset_file, "r", encoding="utf-8") as f:
-    llava_dataset = json.load(f)
+for item in data:
+    img_field = item.get("image", "")  # ex: "data/ko_zh_datasets_4/total_images/00427_zh.jpg"
 
-valid_files = set()
-skip_files = set()
-total_conversations = 0  # 총 conversation 수
+    # 파일 이름만 추출
+    filename = os.path.basename(img_field)
 
-# ID 오름차순 정렬
-llava_dataset.sort(key=lambda x: x["id"])
+    total += 1
+    full_path = os.path.join(TOTAL_IMAGE_DIR, filename)
 
-# <image> 태그 중복 제거
-for entry in llava_dataset:
-    convos = entry.get("conversations", [])
-    total_conversations += len(convos) // 2  # human+gpt 한 쌍 = 1 conversation
+    if not os.path.exists(full_path):
+        missing.append(full_path)
 
-    first_image_found = False
-    for msg in convos:
-        if "<image>" in msg.get("value", ""):
-            if not first_image_found:
-                first_image_found = True
-            else:
-                # 맨 첫번째 이후 <image> 제거
-                msg["value"] = msg["value"].replace("<image>\n", "")
+print(f"Checked {total} images")
+print(f"Missing: {len(missing)}")
 
-    # file name 추출
-    file_name = os.path.basename(entry["image"]).replace(".jpg", ".json")
-    valid_files.add(file_name)
-
-# skip files 확인
-skip_files = all_possible_files - valid_files
-
-# 정렬 후 JSON으로 저장
-with open(sorted_dataset_file, "w", encoding="utf-8") as f:
-    json.dump(llava_dataset, f, ensure_ascii=False, indent=2)
-
-print(f"✅ Sorted & cleaned dataset saved: {sorted_dataset_file}")
-print(f"총 entries: {len(llava_dataset)}")
-print("\n=== Valid files ===")
-for f in sorted(valid_files):
-    print(f)
-
-print("\n=== Skip files ===")
-for f in sorted(skip_files):
-    print(f)
-
-print(f"\n✅ 총 valid files: {len(valid_files)}")
-print(f"❌ 총 skipped files: {len(skip_files)}")
-print(f"📝 총 conversations 수: {total_conversations}")
+if missing:
+    print("\n--- Missing files ---")
+    for m in missing[:50]:
+        print(m)
