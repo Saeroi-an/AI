@@ -23,7 +23,7 @@
 ├── src/                 # 메인 소스 코드
 │   ├── dataset/         # 데이터 로딩 및 전처리 로직 (VLM 형식 변환)
 │   ├── loss/            # 학습을 위한 커스텀 손실 함수 정의
-│   ├── model/           # Qwen2-VL 모델 아키텍처 및 설정 관련 코드
+│   ├── model/           # Qwen-VL 모델 아키텍처 및 설정 관련 코드
 │   ├── serve/           # 추론(Inference) 및 API 서빙 관련 코드
 │   ├── train/           # SFT(Supervised Fine-Tuning) 메인 실행 스크립트
 │   └── trainer/         # 파이토치/DeepSpeed 기반 학습 엔진 관리
