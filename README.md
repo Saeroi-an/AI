@@ -3,6 +3,7 @@
 **본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.**
 이 프로젝트의 UI와 전체 소개는 [여기](https://github.com/Saeroi-an) 에 들어가면 보실 수 있습니다.
 <img src="image/main_ai.png">
+
 ## 🌐 Model Fine-tuning
 - base model: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
 - 🤗 fine-tuning model: [qwenvl-7B-medical-ko-zh](https://huggingface.co/Rfy23/qwenvl-7B-medical-ko-zh)
@@ -18,6 +19,7 @@
 - LLM (LoRA): 모델 본체 가중치는 동결(Frozen)하고, 핵심 어텐션 레이어(q_proj, v_proj)에 LoRA 어댑터를 적용하여 메모리 효율성 확보 및 기존 언어 지식 보존.
 <img src="image/result_vision.jpg">
 ---
+
 ## 🌐 Files Structure
 
 ```text
@@ -34,6 +36,7 @@
 │   └── trainer/         # 파이토치/DeepSpeed 기반 학습 엔진 관리
 └── output/              # 체크포인트 및 학습 로그 저장 폴더 ➡️ .gitignore
 ```
+
 ---
 
 ## 🌐 Dataset Info
