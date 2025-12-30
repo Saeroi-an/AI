@@ -1,17 +1,22 @@
 # Rfy23/qwenvl-7B-medical-ko-zh
 
 **본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.**
-이 프로젝트의 UI와 전체 소개는 [여가](https://github.com/Saeroi-an) 에 들어가면 보실 수 있습니다.
+이 프로젝트의 UI와 전체 소개는 [여기](https://github.com/Saeroi-an) 에 들어가면 보실 수 있습니다.
 <img src="image/main_ai.png">
-
 ## 🌐 Model Fine-tuning
 - base model: [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
 - 🤗 fine-tuning model: [qwenvl-7B-medical-ko-zh](https://huggingface.co/Rfy23/qwenvl-7B-medical-ko-zh)
 
 효율적인 자원 사용과 정확한 OCR 성능을 위해 Hybrid Fine-tuning 전략을 채택했습니다.
 
+### Challenge: 한글의 인식률이 낮았음
+<img src="image/vision_encoder_challenge.png">
+초성-중성-종성 밀접하게 모여있는 상형문자들은 인식에 있어 정확도가 현저히 떨어졌었음. LLM으로 도메인 파인튜닝만 하는 것이 아니라 vision 인코더도 학습을 하여 '한글 인식'에 강화가 필요했습니다.
+
+이러한 문제점은 아래처럼 학습 전략을 바꾸었고 한글 인식 성능을 높일 수 있었습니다.
 - Vision Tower & Merger (Full Fine-tuning): 처방전의 미세한 한글 획(ㅗ, ㅜ 등) 인식 성능을 높이기 위해 언프리징(Unfrozen)하여 직접 학습.
 - LLM (LoRA): 모델 본체 가중치는 동결(Frozen)하고, 핵심 어텐션 레이어(q_proj, v_proj)에 LoRA 어댑터를 적용하여 메모리 효율성 확보 및 기존 언어 지식 보존.
+<img src="image/result_vision.jpg">
 ---
 ## 🌐 Files Structure
 
@@ -99,5 +104,11 @@ bash finetune_lora.sh
 - Optimization: DeepSpeed ZeRO-3 Offload, Liger Kernel
 - Learning Rate: LLM($5\times10^{-6}$), Vision($2\times10^{-6}$), Merger($1\times10^{-5}$)
 - Batch Size: 32 (Global) / Epochs: 5
+
+---
+### 🌐 Features
+<img src"image/func1.png">
+<img src"image/fun2.png">
+<img src"image/func3.png">
 
   
