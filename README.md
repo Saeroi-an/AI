@@ -2,6 +2,8 @@
 
 **본 프로젝트는 국내 의료 서비스를 이용하는 외국인을 위한 의료 문서 인식 AI 모델입니다. Vision Language Model(VLM)을 기반으로 한국의 처방전, 건강검진 결과지, 진료비 영수증 등 복잡한 의료 문서를 정밀하게 분석하고 인식합니다.**
 이 프로젝트의 UI와 전체 소개는 [여기](https://github.com/Saeroi-an) 에 들어가면 보실 수 있습니다.
+![Uploading demo.gif…]()
+
 <img src="image/main_ai.png">
 
 ## 🌐 Model Fine-tuning
